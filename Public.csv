@@ -1,0 +1,2001 @@
+Date,Region,Disease,Cases,Deaths,Outbreak
+2020-12-19,Florida,Measles,110,3,False
+2022-03-19,New York,Flu,198,3,True
+2020-04-25,New York,Flu,93,5,True
+2021-05-06,California,Measles,16,9,True
+2022-03-23,California,Flu,56,2,True
+2021-01-06,Florida,Measles,184,7,False
+2021-12-17,Texas,Measles,62,4,False
+2021-10-26,New York,Measles,139,2,False
+2020-08-23,New York,Measles,41,3,True
+2022-06-28,New York,Flu,105,5,False
+2022-03-30,New York,Flu,132,7,True
+2021-10-17,Florida,Flu,95,4,False
+2020-10-16,Texas,Flu,136,5,True
+2022-06-18,Florida,Measles,182,2,True
+2022-08-25,Texas,Measles,27,1,False
+2020-02-10,Florida,Measles,147,4,False
+2022-01-14,California,Measles,59,1,True
+2022-06-04,California,Measles,31,5,False
+2021-09-10,Texas,Measles,70,9,True
+2020-02-13,Texas,Measles,87,4,True
+2021-08-15,Texas,Measles,118,3,True
+2020-09-12,New York,Flu,145,0,False
+2021-09-20,New York,Measles,121,2,False
+2021-10-06,California,Measles,181,3,True
+2022-07-28,Texas,Flu,101,2,False
+2021-08-26,California,Flu,194,8,False
+2020-01-27,Florida,Measles,71,9,False
+2020-10-17,Florida,Measles,54,1,False
+2020-10-07,California,Flu,62,2,False
+2020-11-09,New York,Flu,127,3,False
+2020-04-02,Texas,Flu,48,7,True
+2022-01-12,New York,Measles,154,1,False
+2021-09-01,California,Measles,85,6,False
+2021-12-06,California,Flu,31,1,True
+2020-03-28,California,Flu,116,4,False
+2021-04-23,California,Flu,107,7,False
+2022-02-07,Texas,Flu,145,9,True
+2022-01-02,Texas,Measles,23,5,False
+2021-06-11,Texas,Measles,175,5,False
+2021-09-05,New York,Measles,151,6,True
+2021-01-18,New York,Flu,65,2,True
+2020-08-24,California,Measles,49,4,True
+2020-10-17,New York,Flu,81,8,False
+2020-08-21,Florida,Measles,121,6,False
+2021-08-25,Florida,Flu,55,2,True
+2022-05-06,Florida,Measles,51,8,True
+2021-09-02,Texas,Measles,113,4,False
+2021-12-02,California,Measles,48,3,False
+2021-10-29,Texas,Measles,48,2,False
+2020-04-02,Texas,Measles,73,1,False
+2022-05-21,New York,Flu,49,0,True
+2021-11-02,New York,Flu,147,9,True
+2021-03-27,Texas,Measles,39,2,True
+2021-08-13,New York,Flu,123,4,True
+2021-12-18,California,Flu,124,7,False
+2020-02-09,Texas,Measles,54,2,False
+2021-08-02,New York,Flu,191,6,True
+2022-07-26,Texas,Flu,54,8,False
+2020-09-30,Texas,Measles,102,2,False
+2021-04-02,California,Measles,17,6,False
+2020-06-05,New York,Flu,40,3,False
+2020-05-27,New York,Measles,61,7,True
+2022-08-18,New York,Measles,94,9,False
+2021-10-09,Texas,Measles,167,8,True
+2020-11-03,California,Flu,79,3,True
+2021-09-13,California,Flu,91,9,True
+2020-05-21,California,Flu,128,3,False
+2021-10-19,Florida,Measles,103,1,False
+2022-05-18,Texas,Measles,13,4,True
+2021-12-19,Texas,Measles,92,5,True
+2022-06-26,New York,Measles,76,2,False
+2020-04-23,Florida,Measles,178,1,False
+2021-03-13,California,Flu,137,8,False
+2022-07-22,California,Measles,118,2,False
+2020-06-05,California,Flu,113,0,False
+2022-03-17,Texas,Measles,32,8,False
+2020-01-29,Florida,Flu,83,1,False
+2022-09-20,New York,Flu,58,7,False
+2021-04-21,California,Flu,172,5,True
+2020-06-26,California,Measles,73,5,False
+2020-06-17,Florida,Flu,135,8,True
+2022-09-23,California,Measles,108,1,False
+2021-01-05,Texas,Flu,154,6,False
+2022-06-11,California,Measles,183,4,True
+2021-03-13,Texas,Flu,137,9,True
+2021-09-23,Texas,Flu,39,8,False
+2022-02-26,Texas,Flu,152,7,False
+2020-06-24,California,Measles,169,3,False
+2022-04-18,Texas,Measles,89,4,True
+2022-02-20,Florida,Measles,96,6,False
+2020-10-04,New York,Measles,134,0,False
+2021-06-15,Texas,Measles,102,6,True
+2021-08-26,Florida,Measles,124,5,True
+2020-12-07,California,Measles,11,9,True
+2020-04-25,California,Measles,121,2,True
+2020-09-29,Texas,Flu,170,5,True
+2020-10-04,California,Flu,139,3,True
+2021-07-26,Florida,Flu,11,9,True
+2022-08-27,New York,Measles,83,3,False
+2021-06-18,Florida,Measles,39,3,False
+2021-11-28,Florida,Flu,88,8,True
+2021-09-03,Florida,Flu,26,0,False
+2020-11-03,Texas,Flu,77,4,True
+2021-12-26,Florida,Flu,99,2,False
+2022-07-17,Florida,Flu,182,5,True
+2020-06-20,Florida,Measles,94,6,True
+2021-03-28,New York,Flu,170,3,False
+2022-02-12,Florida,Measles,196,2,True
+2020-09-26,Florida,Measles,101,7,False
+2020-04-04,New York,Measles,45,4,False
+2020-12-29,California,Measles,73,5,False
+2020-12-15,California,Measles,28,0,False
+2022-06-30,Florida,Measles,85,8,True
+2020-09-29,Texas,Measles,174,8,False
+2021-09-28,Texas,Measles,118,0,False
+2022-03-17,California,Flu,84,1,False
+2021-09-17,New York,Measles,55,7,False
+2022-03-13,New York,Flu,123,3,False
+2020-08-24,Florida,Measles,22,8,True
+2020-12-06,Florida,Flu,70,0,True
+2020-04-28,Florida,Flu,180,9,False
+2020-04-23,New York,Measles,51,5,False
+2020-02-01,Florida,Flu,197,0,False
+2020-09-28,Texas,Measles,142,9,True
+2021-03-12,Florida,Measles,155,8,False
+2020-09-02,Florida,Measles,92,9,False
+2020-12-12,New York,Measles,69,7,False
+2022-02-17,California,Measles,88,0,True
+2022-07-19,New York,Flu,122,6,False
+2021-11-04,New York,Measles,77,8,False
+2021-07-09,Texas,Flu,66,8,True
+2020-12-11,California,Flu,188,8,False
+2020-10-27,Florida,Flu,88,7,True
+2021-02-23,Florida,Measles,17,9,False
+2020-11-03,Texas,Flu,142,6,True
+2020-12-29,Florida,Measles,175,9,False
+2021-11-16,Florida,Flu,149,9,False
+2020-05-04,California,Flu,136,8,False
+2022-03-14,Texas,Flu,118,9,False
+2020-10-09,New York,Measles,87,0,True
+2021-10-11,New York,Flu,140,7,True
+2020-04-23,New York,Measles,48,8,True
+2021-05-16,New York,Measles,92,4,True
+2020-12-11,New York,Measles,41,5,True
+2021-02-12,New York,Measles,171,0,False
+2021-09-20,California,Flu,96,0,True
+2021-09-21,Texas,Flu,152,7,False
+2020-02-04,New York,Flu,158,2,True
+2021-10-07,Texas,Measles,71,4,True
+2020-06-15,New York,Measles,83,8,False
+2021-09-17,California,Flu,148,0,True
+2020-03-16,Florida,Flu,127,5,True
+2021-01-11,California,Measles,53,6,True
+2021-11-27,Texas,Flu,143,6,False
+2020-12-21,Texas,Flu,101,7,True
+2020-09-18,California,Flu,137,6,False
+2021-05-31,New York,Measles,172,2,True
+2022-03-19,New York,Measles,108,4,True
+2020-12-03,California,Flu,102,7,True
+2020-12-11,Texas,Measles,90,3,False
+2020-07-19,New York,Measles,139,7,True
+2021-04-06,California,Flu,113,4,True
+2021-03-31,California,Measles,67,1,False
+2022-08-27,Florida,Measles,101,5,True
+2020-04-14,New York,Flu,47,0,True
+2020-08-01,Florida,Flu,26,6,True
+2021-03-12,Florida,Measles,53,3,True
+2022-07-30,New York,Measles,40,3,False
+2020-03-13,California,Measles,76,7,False
+2020-02-09,Florida,Measles,149,0,False
+2021-02-08,Texas,Measles,96,6,False
+2021-07-23,Texas,Flu,131,4,True
+2020-11-19,Texas,Measles,36,7,True
+2022-07-19,Florida,Measles,162,4,True
+2020-07-08,Texas,Flu,28,1,False
+2022-05-02,Florida,Flu,83,3,True
+2022-08-06,California,Measles,149,7,False
+2022-04-05,New York,Flu,146,2,True
+2020-12-06,Florida,Flu,191,4,False
+2022-06-09,New York,Measles,16,4,False
+2021-07-25,Texas,Flu,176,1,False
+2021-10-18,New York,Flu,98,2,True
+2021-06-21,New York,Flu,13,1,True
+2021-04-10,California,Measles,60,5,False
+2022-09-17,Texas,Measles,152,9,False
+2020-03-15,California,Flu,34,3,True
+2021-08-10,California,Flu,170,0,False
+2020-11-16,California,Flu,185,8,True
+2022-08-18,New York,Measles,67,0,False
+2022-05-24,Florida,Flu,106,3,False
+2021-07-19,California,Flu,127,1,False
+2022-04-02,New York,Measles,49,2,True
+2020-08-18,California,Measles,10,3,False
+2021-03-08,California,Flu,112,3,False
+2020-11-30,Florida,Measles,83,2,False
+2022-04-29,Texas,Measles,50,7,False
+2020-11-30,Florida,Flu,199,3,False
+2021-06-10,New York,Measles,126,1,False
+2021-06-28,California,Flu,65,2,False
+2021-12-17,Texas,Flu,132,7,False
+2021-04-15,Texas,Flu,89,7,True
+2022-06-05,California,Measles,180,8,False
+2021-01-11,California,Measles,166,2,True
+2020-04-04,Florida,Flu,88,4,False
+2020-07-08,Florida,Flu,179,7,False
+2022-07-02,Florida,Measles,137,7,False
+2021-05-11,Florida,Flu,53,6,False
+2022-09-08,Florida,Flu,37,6,False
+2020-10-29,Florida,Measles,72,8,False
+2020-12-06,California,Flu,20,8,True
+2021-01-27,Texas,Flu,119,8,False
+2021-07-30,Florida,Measles,129,9,False
+2020-03-12,New York,Measles,82,4,False
+2020-02-09,Florida,Measles,15,6,False
+2022-05-08,New York,Measles,118,4,False
+2020-11-21,New York,Measles,175,5,True
+2020-07-26,California,Flu,144,0,False
+2021-10-27,Florida,Measles,65,2,True
+2022-04-16,California,Flu,80,6,True
+2020-12-20,California,Measles,57,3,True
+2022-06-17,California,Flu,109,6,False
+2020-03-10,Florida,Flu,19,4,True
+2021-11-04,California,Flu,156,6,False
+2022-01-06,Texas,Measles,120,8,True
+2021-05-25,Texas,Measles,46,1,False
+2022-02-19,Texas,Flu,175,0,True
+2021-06-04,Texas,Flu,19,5,True
+2020-12-19,New York,Flu,58,0,True
+2021-05-19,New York,Flu,125,9,False
+2021-10-09,Florida,Flu,75,2,True
+2020-11-09,Texas,Flu,89,4,True
+2021-08-10,Florida,Flu,182,0,True
+2020-05-27,California,Measles,192,2,False
+2020-05-06,California,Measles,190,0,True
+2020-09-04,Texas,Measles,168,9,True
+2022-07-11,New York,Measles,35,8,True
+2021-08-06,New York,Measles,115,7,False
+2020-03-01,Florida,Flu,16,9,False
+2022-08-28,New York,Flu,162,3,False
+2021-07-18,Texas,Flu,33,5,True
+2020-05-16,New York,Measles,67,9,True
+2020-11-27,Texas,Measles,125,2,False
+2021-07-14,Florida,Flu,25,0,True
+2022-06-09,Texas,Flu,99,0,True
+2022-06-24,New York,Flu,164,5,False
+2020-05-26,Texas,Measles,163,2,True
+2022-04-16,Texas,Flu,88,1,False
+2021-07-21,Florida,Measles,126,9,True
+2020-11-24,New York,Flu,194,4,True
+2022-03-26,Florida,Measles,26,3,True
+2020-10-14,Texas,Flu,171,5,False
+2020-11-05,Texas,Measles,41,0,False
+2021-03-28,California,Measles,65,0,True
+2022-02-26,Texas,Measles,111,1,False
+2020-08-05,California,Flu,77,5,False
+2020-11-25,California,Measles,40,3,True
+2020-12-26,California,Flu,18,7,True
+2022-01-25,California,Measles,76,0,True
+2020-12-17,Texas,Measles,28,2,False
+2021-06-26,New York,Measles,119,0,True
+2020-12-22,Texas,Measles,35,8,True
+2021-08-31,New York,Measles,101,7,False
+2020-06-03,California,Measles,70,4,False
+2021-01-24,Texas,Measles,23,0,True
+2022-08-13,Florida,Measles,156,6,False
+2020-02-11,Texas,Flu,14,4,False
+2021-06-03,Texas,Measles,147,9,True
+2021-02-17,California,Measles,72,3,True
+2020-08-17,Florida,Flu,175,2,True
+2020-02-05,Texas,Measles,197,0,False
+2021-01-21,Texas,Measles,132,4,True
+2020-08-09,Texas,Flu,101,0,False
+2021-01-10,New York,Flu,35,8,True
+2020-10-12,Florida,Measles,170,2,True
+2020-08-30,California,Flu,42,6,False
+2020-01-14,New York,Flu,57,7,True
+2022-06-12,California,Flu,49,3,False
+2020-10-02,California,Flu,133,5,False
+2022-07-22,California,Measles,11,0,False
+2021-12-01,California,Measles,86,7,False
+2021-05-23,Florida,Flu,139,7,True
+2021-12-30,Florida,Flu,155,4,True
+2020-07-20,New York,Flu,134,6,False
+2022-06-19,Texas,Flu,59,7,True
+2020-12-11,New York,Flu,94,2,False
+2021-03-28,Texas,Measles,90,3,True
+2020-10-30,New York,Measles,73,2,False
+2021-03-12,New York,Flu,24,1,True
+2020-07-01,New York,Measles,188,8,True
+2021-10-21,Texas,Flu,100,4,False
+2020-08-16,New York,Flu,134,5,False
+2021-03-03,California,Measles,188,8,True
+2020-08-17,New York,Measles,61,6,True
+2020-11-15,California,Flu,12,2,True
+2020-07-31,New York,Flu,114,4,False
+2021-05-08,California,Flu,134,8,False
+2020-04-05,Texas,Measles,42,8,True
+2021-12-26,Texas,Flu,50,8,True
+2020-03-14,California,Measles,106,4,False
+2022-07-27,Texas,Flu,155,7,True
+2022-05-04,Texas,Measles,171,8,False
+2022-06-07,New York,Flu,60,0,False
+2020-05-16,Texas,Measles,189,6,False
+2021-09-17,Florida,Measles,103,0,True
+2022-08-18,Texas,Measles,150,6,True
+2020-09-05,Florida,Measles,52,9,True
+2020-10-01,Florida,Measles,66,2,True
+2022-03-21,Texas,Flu,160,2,False
+2021-11-02,California,Measles,78,3,False
+2020-06-23,Florida,Measles,17,5,True
+2021-07-01,Texas,Measles,118,4,True
+2021-08-16,Texas,Measles,28,7,False
+2020-11-13,California,Measles,114,9,True
+2021-08-11,Florida,Measles,125,7,True
+2022-03-31,New York,Flu,55,5,False
+2022-09-21,Florida,Measles,18,9,False
+2021-07-01,New York,Flu,142,0,False
+2021-03-25,Florida,Measles,49,8,True
+2021-05-24,Florida,Flu,10,9,False
+2021-11-26,California,Flu,19,1,False
+2021-12-23,California,Flu,154,5,False
+2022-08-07,New York,Flu,185,8,False
+2022-08-16,California,Measles,195,2,False
+2021-08-11,Florida,Measles,136,0,True
+2022-07-20,Florida,Flu,34,1,True
+2020-02-24,Florida,Flu,177,2,True
+2021-08-22,New York,Measles,167,5,True
+2021-10-12,New York,Measles,168,4,True
+2020-07-22,Texas,Measles,49,8,True
+2021-11-12,Texas,Measles,168,6,False
+2022-01-18,Texas,Flu,180,5,False
+2020-08-07,New York,Flu,176,5,True
+2020-09-21,Texas,Flu,128,0,False
+2022-06-14,Florida,Flu,95,0,False
+2021-08-22,California,Measles,188,2,False
+2021-02-06,Florida,Flu,162,9,True
+2020-10-13,Texas,Measles,169,8,False
+2020-10-13,California,Measles,33,3,False
+2021-02-14,Florida,Flu,186,5,True
+2022-03-05,Texas,Measles,123,2,True
+2020-02-24,New York,Flu,138,3,True
+2021-01-13,New York,Measles,149,0,True
+2020-09-23,Florida,Measles,138,5,False
+2020-09-25,Texas,Measles,75,9,True
+2022-02-21,California,Measles,114,5,False
+2020-02-17,California,Measles,67,8,False
+2022-01-25,California,Flu,64,0,False
+2021-03-18,Texas,Flu,94,4,True
+2022-05-29,New York,Flu,27,5,True
+2020-04-14,California,Flu,85,7,False
+2020-08-11,California,Flu,67,6,True
+2020-09-05,Texas,Measles,181,5,True
+2022-08-03,Florida,Measles,29,8,True
+2020-03-29,California,Flu,27,6,False
+2022-05-13,Texas,Flu,123,3,False
+2020-07-17,Florida,Measles,38,8,True
+2021-08-24,California,Measles,135,9,True
+2021-08-01,Texas,Flu,27,4,False
+2022-05-13,California,Measles,160,6,True
+2022-06-17,California,Flu,14,3,True
+2021-05-01,New York,Measles,44,9,False
+2022-07-17,Texas,Measles,78,9,True
+2020-02-06,Florida,Measles,30,5,False
+2020-07-18,Florida,Measles,199,2,False
+2021-05-21,Texas,Flu,185,6,False
+2020-07-19,Florida,Measles,11,0,True
+2022-02-12,California,Measles,42,9,True
+2022-08-20,California,Flu,79,4,True
+2020-08-22,Florida,Flu,194,1,True
+2022-06-08,Texas,Measles,52,7,False
+2022-04-28,Texas,Flu,43,0,True
+2020-03-03,New York,Flu,92,3,True
+2020-12-15,Florida,Measles,196,1,False
+2022-04-09,Texas,Flu,32,8,True
+2020-01-18,New York,Measles,189,5,True
+2022-06-25,New York,Measles,188,0,True
+2020-12-21,Texas,Flu,61,5,False
+2021-03-08,Texas,Flu,73,2,True
+2020-07-27,New York,Measles,148,6,False
+2021-04-19,Florida,Flu,29,8,False
+2021-08-20,New York,Measles,25,0,False
+2021-11-01,New York,Flu,26,3,False
+2020-10-29,Florida,Measles,69,9,True
+2021-08-13,Texas,Flu,152,6,True
+2020-07-13,California,Flu,184,8,True
+2020-10-21,New York,Flu,44,7,False
+2022-01-29,New York,Flu,132,4,True
+2021-04-18,Texas,Measles,97,1,False
+2020-09-15,Florida,Flu,45,5,False
+2020-01-20,Florida,Flu,17,1,False
+2022-05-30,Florida,Flu,139,3,False
+2021-09-29,Texas,Measles,164,5,False
+2021-06-05,Florida,Measles,114,3,True
+2022-09-10,New York,Flu,50,2,False
+2020-06-24,New York,Flu,161,8,True
+2020-02-14,Florida,Flu,103,3,True
+2020-04-06,Texas,Flu,74,0,False
+2022-03-25,New York,Flu,66,7,False
+2020-05-24,Texas,Flu,168,1,True
+2021-02-13,Florida,Measles,33,6,False
+2022-04-21,Texas,Flu,158,9,False
+2022-06-09,California,Measles,170,5,False
+2020-03-18,California,Measles,100,5,False
+2021-01-25,California,Flu,107,7,True
+2020-02-07,New York,Flu,168,4,True
+2020-02-01,California,Flu,160,7,True
+2022-01-26,Florida,Flu,11,9,False
+2021-05-08,Texas,Measles,166,2,True
+2021-12-19,California,Flu,191,7,True
+2022-01-28,California,Flu,48,0,False
+2021-04-22,New York,Flu,93,4,False
+2021-12-26,Texas,Measles,55,9,False
+2021-12-02,Florida,Measles,185,3,False
+2022-01-19,Texas,Measles,163,7,True
+2020-05-18,Florida,Flu,90,6,True
+2021-01-10,California,Measles,147,1,True
+2022-01-08,New York,Measles,19,2,True
+2020-01-05,New York,Flu,177,8,False
+2021-03-07,Florida,Measles,24,2,False
+2020-01-14,California,Measles,172,6,False
+2020-04-11,Texas,Flu,36,3,False
+2020-08-11,Texas,Flu,120,7,False
+2021-03-11,Florida,Flu,52,4,True
+2022-08-24,New York,Measles,131,8,True
+2020-09-01,Florida,Flu,60,7,False
+2020-02-21,New York,Measles,186,4,True
+2021-02-02,Texas,Measles,118,7,False
+2021-08-13,New York,Flu,168,9,True
+2020-01-30,Texas,Measles,158,9,True
+2021-06-01,Texas,Flu,124,3,True
+2020-04-20,Texas,Flu,22,6,False
+2021-04-18,New York,Flu,116,7,True
+2020-05-03,Florida,Flu,124,3,False
+2021-08-16,New York,Flu,70,5,False
+2021-11-30,New York,Flu,116,9,False
+2020-01-02,California,Flu,168,2,False
+2022-06-23,Texas,Flu,186,6,False
+2020-02-24,Florida,Measles,136,9,False
+2020-01-23,California,Flu,45,7,True
+2022-02-21,New York,Measles,153,2,False
+2020-09-25,Florida,Flu,32,2,False
+2020-04-23,New York,Measles,177,8,False
+2020-05-31,Texas,Measles,12,5,True
+2020-05-31,California,Flu,151,3,False
+2020-02-02,New York,Measles,89,0,False
+2020-04-04,New York,Flu,32,2,True
+2020-09-28,Florida,Flu,67,9,False
+2022-07-03,Texas,Flu,114,5,True
+2020-03-22,Texas,Measles,152,3,True
+2021-01-04,California,Measles,76,6,True
+2021-11-26,California,Flu,112,8,True
+2021-11-19,Florida,Flu,111,6,False
+2021-01-21,Florida,Measles,104,6,False
+2020-06-17,New York,Flu,56,2,False
+2020-02-08,Florida,Flu,198,8,True
+2020-08-08,Texas,Measles,53,5,False
+2021-04-23,California,Flu,13,3,True
+2021-03-28,New York,Measles,18,2,False
+2022-02-28,New York,Measles,77,8,True
+2020-05-18,Texas,Measles,92,5,False
+2020-07-15,Florida,Measles,144,6,True
+2020-01-18,New York,Measles,54,3,True
+2021-06-06,Texas,Flu,77,7,False
+2021-10-20,New York,Flu,53,0,True
+2020-07-15,Texas,Measles,44,1,False
+2020-09-14,New York,Measles,106,5,False
+2020-04-08,Florida,Flu,157,8,False
+2021-07-07,Texas,Flu,63,0,True
+2021-07-29,New York,Measles,128,7,False
+2022-09-08,Florida,Flu,193,5,True
+2022-02-06,New York,Flu,25,5,True
+2021-05-29,New York,Flu,96,0,True
+2022-09-16,New York,Measles,176,8,False
+2021-05-22,California,Measles,105,0,True
+2022-07-02,New York,Flu,45,7,True
+2020-04-02,Texas,Measles,106,7,False
+2022-03-01,Florida,Measles,158,0,False
+2021-08-03,New York,Flu,32,6,True
+2020-07-07,California,Flu,53,4,True
+2020-03-05,Texas,Measles,137,8,True
+2021-04-15,New York,Measles,14,7,True
+2020-11-04,New York,Flu,170,4,False
+2022-05-07,New York,Measles,163,3,False
+2021-05-01,Texas,Flu,97,7,True
+2021-01-11,California,Flu,22,7,False
+2022-07-11,New York,Flu,178,7,True
+2021-08-23,Florida,Flu,162,5,False
+2020-03-24,Texas,Measles,177,0,False
+2020-11-03,New York,Flu,182,5,False
+2022-08-15,California,Flu,115,5,False
+2022-07-20,California,Measles,145,9,True
+2022-05-13,California,Measles,195,7,True
+2020-05-15,Texas,Flu,153,7,True
+2021-07-03,Texas,Flu,177,5,True
+2022-03-23,California,Flu,169,0,False
+2020-02-28,Texas,Measles,133,2,True
+2022-07-31,Florida,Measles,186,5,True
+2020-01-22,New York,Flu,46,6,True
+2020-03-16,California,Flu,85,5,False
+2021-11-03,California,Measles,73,8,False
+2020-04-27,Florida,Flu,78,7,True
+2021-11-04,Florida,Measles,44,6,True
+2022-09-17,Texas,Measles,61,3,True
+2021-02-11,California,Measles,158,6,True
+2022-02-03,California,Measles,12,5,True
+2020-08-08,Florida,Measles,64,6,False
+2020-02-11,New York,Flu,111,4,False
+2020-01-21,California,Flu,156,5,False
+2022-02-09,Florida,Flu,19,7,True
+2021-09-23,Texas,Flu,174,9,False
+2022-07-04,Florida,Flu,167,3,False
+2022-08-03,New York,Measles,34,3,True
+2022-07-07,Florida,Flu,121,1,True
+2021-02-14,Florida,Flu,34,3,True
+2020-11-09,Florida,Flu,156,9,True
+2021-03-16,New York,Measles,164,8,True
+2021-02-11,Texas,Flu,136,4,True
+2021-06-25,Florida,Measles,55,4,True
+2020-06-27,California,Flu,61,1,True
+2021-05-17,California,Flu,24,9,True
+2022-04-24,Florida,Measles,183,7,True
+2022-06-14,California,Measles,176,6,True
+2020-10-07,Texas,Flu,147,9,False
+2021-03-18,California,Measles,93,0,False
+2021-01-24,California,Measles,39,9,False
+2021-08-04,California,Flu,101,7,True
+2021-07-20,Florida,Measles,97,6,True
+2021-10-19,New York,Flu,51,0,True
+2021-07-25,Florida,Flu,79,1,False
+2021-03-28,California,Flu,170,5,True
+2022-03-10,California,Flu,75,1,False
+2021-11-04,Texas,Flu,49,2,False
+2021-11-21,New York,Measles,35,5,True
+2020-02-07,California,Flu,116,5,False
+2020-11-05,Florida,Measles,46,5,False
+2021-03-17,Texas,Flu,106,1,True
+2020-02-17,New York,Flu,29,9,True
+2020-08-17,California,Flu,146,4,False
+2020-02-12,California,Measles,158,0,False
+2021-02-14,Florida,Measles,139,7,True
+2021-07-01,California,Measles,163,7,False
+2021-03-01,California,Measles,87,0,False
+2022-06-04,Florida,Flu,183,2,False
+2022-02-07,New York,Measles,158,2,False
+2020-11-19,Texas,Measles,117,0,False
+2021-07-05,New York,Flu,169,1,False
+2021-03-04,California,Flu,73,5,False
+2022-06-20,Texas,Flu,20,6,False
+2020-03-26,New York,Measles,148,9,False
+2020-03-26,New York,Flu,97,2,True
+2020-02-01,Texas,Flu,135,4,False
+2021-08-14,California,Measles,42,4,False
+2021-05-01,California,Flu,63,1,True
+2022-04-20,New York,Flu,183,2,True
+2021-11-03,Florida,Flu,149,0,True
+2020-08-23,California,Flu,94,2,True
+2022-08-01,California,Flu,90,1,False
+2021-09-14,California,Measles,179,2,False
+2022-01-21,New York,Measles,144,3,False
+2021-01-08,Florida,Measles,181,6,True
+2020-06-08,California,Flu,33,0,True
+2022-07-29,Florida,Measles,58,9,True
+2022-02-21,New York,Flu,164,9,False
+2021-12-15,California,Flu,168,8,True
+2020-06-26,New York,Measles,78,5,True
+2021-12-04,California,Measles,106,5,True
+2020-12-17,New York,Measles,152,7,False
+2021-05-26,California,Measles,89,3,False
+2022-01-28,California,Measles,25,6,False
+2020-09-16,Texas,Measles,41,0,True
+2020-10-29,Texas,Flu,104,1,False
+2021-08-05,New York,Measles,44,1,True
+2021-11-15,New York,Flu,76,3,True
+2020-04-18,New York,Measles,76,6,False
+2022-09-20,Florida,Flu,55,6,False
+2020-10-08,California,Flu,56,3,True
+2021-11-23,New York,Measles,161,2,True
+2022-03-24,California,Flu,151,1,True
+2022-02-12,Florida,Measles,29,1,False
+2020-07-13,California,Measles,112,3,False
+2021-04-17,New York,Flu,24,7,True
+2020-08-06,Florida,Measles,175,6,False
+2021-09-13,New York,Measles,33,7,True
+2021-06-28,New York,Measles,20,4,True
+2021-01-01,Florida,Measles,11,3,True
+2020-09-06,California,Measles,142,5,True
+2021-12-03,Florida,Flu,179,2,False
+2021-09-21,New York,Flu,189,8,True
+2021-05-11,New York,Measles,132,9,False
+2022-08-23,Texas,Flu,62,4,True
+2021-09-05,New York,Measles,84,6,True
+2021-05-16,New York,Flu,109,8,True
+2022-06-18,Texas,Measles,184,6,True
+2020-01-09,California,Flu,144,8,False
+2020-05-28,Florida,Flu,158,2,False
+2020-12-25,Florida,Measles,96,1,False
+2021-09-16,Texas,Measles,190,9,True
+2021-07-02,Florida,Flu,192,8,True
+2022-05-12,Florida,Measles,103,7,False
+2021-01-27,Florida,Measles,153,2,False
+2021-10-18,Florida,Flu,145,4,True
+2022-03-13,Texas,Flu,117,8,True
+2020-11-14,Texas,Measles,161,3,True
+2021-08-04,Texas,Flu,182,3,False
+2020-03-20,New York,Flu,154,8,False
+2020-10-08,California,Flu,45,6,False
+2021-10-09,Florida,Flu,160,3,True
+2021-08-31,California,Flu,72,8,False
+2021-06-26,Florida,Measles,164,0,False
+2020-12-14,California,Flu,45,0,False
+2022-01-04,Florida,Measles,58,4,True
+2022-03-18,Texas,Measles,25,3,True
+2020-02-16,Texas,Flu,150,1,True
+2021-03-28,Texas,Measles,149,2,True
+2020-06-09,Florida,Measles,60,3,False
+2021-07-10,New York,Flu,72,6,False
+2020-09-14,Texas,Measles,188,0,True
+2020-12-24,California,Flu,12,5,False
+2021-04-29,Texas,Flu,193,6,False
+2020-09-20,California,Flu,44,4,True
+2020-01-11,New York,Flu,115,5,False
+2022-01-10,New York,Flu,194,6,False
+2020-11-22,New York,Flu,117,4,True
+2022-02-04,Texas,Measles,152,6,False
+2021-04-12,New York,Flu,184,2,True
+2020-09-08,Texas,Measles,129,7,False
+2020-02-20,Florida,Flu,164,0,False
+2020-03-21,New York,Measles,107,4,False
+2021-03-02,New York,Measles,162,8,False
+2020-12-01,California,Measles,136,7,False
+2020-01-09,California,Flu,112,2,True
+2020-11-22,New York,Flu,109,8,True
+2022-09-15,Texas,Flu,112,7,True
+2020-05-31,Florida,Measles,128,0,False
+2021-10-05,California,Measles,84,1,False
+2020-12-08,Texas,Flu,55,2,False
+2020-06-17,Florida,Flu,25,5,False
+2022-07-07,New York,Measles,88,2,True
+2020-06-15,New York,Measles,37,9,True
+2020-05-17,New York,Measles,177,0,False
+2020-07-18,Florida,Measles,135,7,True
+2021-08-11,Texas,Flu,143,6,True
+2020-10-11,Texas,Measles,173,9,False
+2020-12-09,California,Measles,37,9,True
+2020-04-13,California,Flu,86,9,True
+2020-02-07,Texas,Flu,69,7,False
+2021-08-25,Florida,Measles,133,1,True
+2022-02-05,New York,Measles,186,3,False
+2021-07-09,Texas,Measles,139,8,False
+2020-12-05,Florida,Measles,174,1,False
+2020-10-04,Texas,Flu,39,9,True
+2021-02-21,Texas,Measles,165,5,False
+2022-02-03,California,Measles,95,8,False
+2020-03-10,New York,Measles,182,1,False
+2021-07-01,California,Measles,37,3,False
+2022-03-04,New York,Flu,18,8,False
+2021-12-09,New York,Flu,127,2,True
+2021-01-25,New York,Measles,189,7,True
+2020-08-15,California,Measles,122,7,False
+2020-11-03,California,Flu,10,6,True
+2021-01-03,New York,Measles,195,5,False
+2020-03-14,New York,Measles,102,7,False
+2020-10-05,New York,Flu,90,0,False
+2021-05-09,California,Flu,135,1,False
+2021-05-04,New York,Flu,55,1,True
+2022-01-12,Texas,Flu,173,8,True
+2020-02-26,Florida,Flu,88,4,False
+2022-05-16,New York,Measles,35,7,False
+2020-10-29,Texas,Flu,73,4,True
+2022-04-07,New York,Flu,119,6,False
+2021-01-02,California,Flu,97,5,True
+2020-01-24,New York,Flu,20,6,False
+2020-03-13,Florida,Flu,109,9,True
+2020-12-14,Florida,Flu,36,0,True
+2020-10-26,Florida,Measles,193,8,True
+2020-09-06,Florida,Measles,190,4,True
+2021-01-16,Texas,Measles,84,5,True
+2020-01-11,Texas,Measles,45,9,False
+2021-03-05,New York,Measles,19,4,True
+2022-05-23,California,Flu,48,0,False
+2020-09-17,Texas,Measles,60,1,False
+2022-06-18,Texas,Flu,85,6,False
+2020-05-30,Florida,Measles,67,1,False
+2022-05-19,Texas,Measles,40,1,False
+2021-05-12,California,Flu,115,5,True
+2021-07-08,New York,Measles,35,4,False
+2020-12-21,Florida,Measles,180,3,True
+2020-01-19,Texas,Flu,32,4,False
+2021-08-29,New York,Flu,83,6,True
+2021-01-21,Florida,Flu,32,0,True
+2022-03-12,California,Flu,75,8,True
+2020-02-28,California,Measles,17,1,False
+2021-08-09,Florida,Measles,94,2,False
+2020-11-30,California,Measles,128,4,True
+2022-05-08,Texas,Flu,172,3,True
+2020-10-07,Texas,Measles,11,1,False
+2021-06-09,New York,Flu,76,1,True
+2022-07-06,California,Measles,129,8,False
+2020-03-06,New York,Measles,63,9,False
+2021-03-20,California,Flu,174,8,False
+2020-02-05,California,Measles,80,6,True
+2020-08-26,Florida,Flu,180,5,False
+2020-06-17,New York,Measles,182,7,False
+2022-05-21,New York,Measles,148,8,False
+2022-08-15,California,Flu,44,2,False
+2022-06-04,Texas,Flu,157,9,False
+2021-01-21,Florida,Measles,136,5,False
+2021-08-18,Texas,Flu,113,9,True
+2022-08-27,New York,Measles,156,1,False
+2022-09-06,Texas,Flu,18,8,False
+2020-06-07,Florida,Flu,172,5,True
+2021-06-08,Texas,Flu,115,8,True
+2020-10-04,California,Measles,137,8,True
+2022-09-25,New York,Measles,92,2,False
+2020-03-05,California,Measles,107,8,False
+2020-04-11,New York,Flu,127,4,False
+2022-04-24,New York,Measles,170,9,True
+2020-06-14,Texas,Measles,121,8,True
+2021-08-13,California,Measles,113,7,False
+2021-01-08,New York,Measles,107,7,False
+2020-02-27,California,Measles,79,1,True
+2022-03-24,New York,Measles,176,5,True
+2022-04-27,California,Measles,53,4,False
+2022-02-28,Texas,Flu,65,1,False
+2020-03-25,Texas,Measles,104,7,True
+2021-09-27,Florida,Flu,69,9,True
+2020-01-31,Texas,Flu,189,7,False
+2020-02-12,California,Measles,187,6,False
+2021-08-25,Texas,Measles,75,5,True
+2022-04-01,California,Measles,157,8,False
+2021-06-26,California,Flu,51,8,False
+2022-02-18,California,Measles,55,7,True
+2021-02-02,Texas,Measles,103,7,False
+2021-12-04,Texas,Flu,150,3,False
+2022-06-22,New York,Measles,40,5,False
+2020-02-13,California,Flu,11,5,True
+2020-03-13,California,Flu,184,3,True
+2021-02-20,Texas,Measles,184,8,True
+2020-12-26,Florida,Flu,32,5,True
+2020-10-13,Texas,Flu,61,6,True
+2021-05-20,California,Measles,146,7,False
+2020-02-10,Florida,Flu,100,5,False
+2022-02-18,Texas,Measles,24,3,True
+2022-06-04,California,Flu,96,8,False
+2021-10-17,New York,Measles,129,7,True
+2021-03-19,Texas,Measles,69,9,True
+2020-05-04,California,Measles,155,8,True
+2021-09-23,Florida,Measles,101,1,False
+2020-07-09,California,Flu,166,9,False
+2022-02-07,Florida,Flu,51,5,True
+2022-06-03,Florida,Measles,82,0,True
+2021-06-10,California,Measles,27,2,True
+2020-04-13,Texas,Flu,17,7,True
+2020-06-21,Texas,Measles,36,4,False
+2020-01-13,California,Flu,33,4,True
+2022-06-22,Texas,Flu,69,1,False
+2021-08-22,Texas,Flu,192,4,False
+2020-03-16,New York,Flu,180,3,True
+2022-09-03,Texas,Measles,127,4,True
+2022-05-14,Florida,Flu,63,3,True
+2020-09-12,New York,Measles,155,2,True
+2021-07-25,California,Measles,73,3,False
+2021-06-11,Texas,Flu,140,7,True
+2020-05-01,Florida,Measles,82,0,True
+2021-07-12,New York,Flu,171,6,False
+2020-10-09,Texas,Measles,113,4,False
+2021-05-09,Florida,Flu,94,1,True
+2020-11-29,New York,Measles,61,4,False
+2021-09-13,California,Flu,161,6,True
+2020-07-02,New York,Flu,171,9,True
+2020-05-08,Florida,Measles,100,0,True
+2021-09-01,Texas,Flu,18,9,True
+2020-09-22,California,Measles,182,6,True
+2021-05-04,New York,Measles,159,8,True
+2021-05-11,California,Flu,187,3,False
+2022-08-30,New York,Flu,180,7,False
+2020-08-08,California,Flu,45,0,False
+2021-11-19,Florida,Measles,53,3,True
+2020-05-23,California,Flu,36,3,True
+2022-06-05,New York,Flu,26,9,True
+2021-11-12,California,Flu,154,1,False
+2022-01-16,Texas,Flu,175,3,True
+2021-07-05,Texas,Measles,118,1,False
+2021-04-25,Texas,Flu,16,5,False
+2020-07-18,Texas,Flu,25,6,True
+2020-05-11,Florida,Measles,184,1,False
+2020-02-04,Florida,Measles,168,1,True
+2021-04-25,New York,Measles,51,9,True
+2021-09-15,California,Measles,131,1,True
+2022-03-15,Florida,Flu,176,5,True
+2021-03-11,Texas,Measles,46,1,False
+2020-02-22,California,Measles,58,8,False
+2021-07-02,Florida,Measles,168,5,True
+2021-06-20,Texas,Measles,108,0,True
+2020-08-13,New York,Measles,51,3,False
+2021-05-24,New York,Measles,120,8,False
+2021-02-14,Texas,Measles,80,7,True
+2021-08-15,Florida,Measles,143,8,False
+2022-08-26,California,Flu,21,7,True
+2020-09-13,California,Measles,131,0,False
+2021-02-02,Texas,Flu,148,5,True
+2021-11-16,Texas,Flu,123,6,True
+2020-01-24,Texas,Measles,81,5,True
+2021-11-12,California,Measles,76,8,False
+2020-07-12,New York,Measles,94,4,False
+2020-05-29,New York,Measles,75,8,True
+2021-03-20,New York,Flu,106,4,True
+2022-07-03,New York,Measles,186,8,True
+2020-04-16,Texas,Flu,54,7,True
+2020-05-19,California,Flu,66,7,True
+2022-01-30,California,Measles,69,4,True
+2022-09-16,Texas,Flu,116,1,False
+2020-11-11,Florida,Measles,139,2,False
+2020-04-08,Texas,Measles,196,8,True
+2020-05-29,Texas,Measles,16,0,False
+2020-10-22,California,Flu,27,1,False
+2022-07-02,Texas,Flu,39,7,False
+2022-02-06,California,Flu,158,2,False
+2020-01-30,Texas,Measles,59,8,False
+2020-04-02,New York,Measles,64,5,False
+2022-06-22,California,Flu,133,3,True
+2022-09-19,New York,Flu,130,3,False
+2022-08-12,Florida,Flu,111,1,True
+2020-04-20,Texas,Flu,104,9,True
+2021-08-03,Texas,Flu,74,1,False
+2022-04-03,California,Measles,60,5,True
+2021-05-08,Florida,Measles,175,7,True
+2020-02-20,New York,Flu,65,8,True
+2020-01-06,California,Measles,166,8,True
+2020-10-07,Florida,Measles,119,8,False
+2022-02-07,California,Measles,43,3,True
+2022-04-12,Florida,Measles,191,8,False
+2022-05-04,Florida,Measles,32,6,True
+2021-01-05,Florida,Measles,39,2,True
+2020-03-25,New York,Flu,45,9,False
+2021-08-02,California,Measles,132,7,False
+2021-08-10,California,Flu,22,3,True
+2022-07-24,Texas,Measles,173,1,True
+2020-02-15,California,Flu,110,0,True
+2022-02-09,Texas,Measles,178,4,True
+2021-11-01,New York,Measles,38,0,False
+2020-12-12,Texas,Flu,27,8,False
+2020-04-27,Florida,Flu,107,0,True
+2022-04-11,Texas,Measles,91,6,True
+2020-11-11,California,Measles,184,6,False
+2021-11-13,California,Measles,159,0,False
+2021-07-31,Florida,Measles,57,6,True
+2020-03-15,Florida,Flu,170,6,False
+2020-09-24,Florida,Flu,65,2,False
+2022-04-05,New York,Measles,110,7,False
+2020-07-30,New York,Measles,28,7,True
+2022-03-02,New York,Flu,79,1,False
+2021-12-01,New York,Flu,57,5,False
+2021-08-24,California,Measles,83,1,False
+2020-02-09,New York,Flu,165,7,True
+2022-02-05,Texas,Flu,141,3,True
+2020-11-15,New York,Flu,151,8,True
+2020-01-14,California,Flu,145,1,True
+2020-01-14,New York,Flu,153,8,True
+2020-01-01,Texas,Flu,113,6,False
+2021-04-28,Florida,Flu,123,8,True
+2021-08-19,Texas,Measles,42,5,True
+2021-09-13,California,Measles,162,2,True
+2021-12-25,Texas,Measles,193,5,True
+2021-07-16,Texas,Measles,32,3,False
+2022-08-14,Texas,Flu,26,3,True
+2021-06-02,Texas,Measles,41,0,True
+2020-06-15,Texas,Flu,101,9,False
+2022-05-02,California,Flu,196,0,False
+2021-05-28,New York,Measles,81,4,True
+2020-07-05,New York,Measles,98,6,True
+2020-11-07,New York,Flu,184,3,False
+2020-12-09,California,Flu,24,2,True
+2022-09-13,Texas,Flu,142,4,False
+2022-09-10,Florida,Measles,93,0,False
+2021-03-07,Texas,Measles,83,2,False
+2021-08-17,California,Flu,141,7,False
+2021-05-29,Texas,Flu,69,4,True
+2021-03-27,California,Measles,182,0,True
+2020-06-05,Florida,Flu,25,2,False
+2021-12-18,Texas,Measles,62,9,True
+2020-05-03,California,Flu,62,3,False
+2020-02-10,Florida,Measles,161,2,False
+2022-05-12,Florida,Measles,179,6,True
+2021-10-24,Florida,Measles,31,6,True
+2021-05-05,New York,Flu,196,0,True
+2021-05-11,Florida,Flu,33,7,False
+2020-08-13,Florida,Measles,22,2,True
+2021-07-20,Florida,Flu,170,1,False
+2022-06-10,Texas,Flu,140,3,True
+2020-03-01,Texas,Measles,19,9,False
+2021-01-21,Florida,Flu,148,5,True
+2021-12-24,Texas,Measles,46,5,True
+2020-07-15,Florida,Flu,186,3,False
+2020-11-08,New York,Measles,99,6,True
+2021-07-29,California,Measles,57,4,True
+2021-12-23,Texas,Flu,54,2,True
+2020-05-05,Florida,Measles,89,1,True
+2021-08-26,Florida,Measles,107,3,True
+2020-03-19,California,Flu,71,6,False
+2021-03-12,New York,Flu,89,1,False
+2021-12-07,California,Measles,148,5,False
+2020-06-08,Florida,Flu,44,1,True
+2021-01-05,California,Measles,133,4,True
+2021-04-18,California,Flu,184,6,False
+2020-04-06,Texas,Flu,139,2,False
+2022-03-21,Texas,Flu,142,7,True
+2020-09-24,New York,Measles,108,4,False
+2021-08-05,Florida,Measles,78,6,True
+2021-11-28,Florida,Measles,150,0,True
+2022-06-14,New York,Measles,77,0,True
+2021-12-11,Florida,Flu,68,3,False
+2022-08-03,California,Measles,56,6,True
+2021-09-11,Texas,Measles,24,2,True
+2021-11-15,New York,Measles,161,3,False
+2021-12-07,California,Flu,144,7,False
+2021-02-04,Florida,Measles,134,4,False
+2020-02-02,Florida,Flu,67,5,False
+2021-07-19,Texas,Flu,140,3,False
+2021-06-22,Texas,Flu,108,7,True
+2021-03-12,Florida,Flu,19,2,False
+2022-06-03,Florida,Flu,73,3,False
+2020-05-15,New York,Measles,168,8,True
+2021-10-30,New York,Flu,181,1,False
+2022-08-29,New York,Measles,25,8,True
+2020-10-13,California,Flu,87,0,False
+2021-12-17,Texas,Flu,89,4,True
+2020-02-05,California,Flu,176,0,True
+2022-04-09,California,Flu,135,0,False
+2020-01-20,Florida,Measles,56,5,False
+2021-06-30,Texas,Measles,138,5,True
+2020-12-23,California,Flu,194,5,True
+2022-03-08,California,Measles,23,3,False
+2021-01-08,New York,Measles,65,5,False
+2021-04-18,Texas,Measles,109,6,False
+2021-11-28,Texas,Measles,134,5,False
+2020-11-24,California,Measles,168,7,False
+2020-09-18,New York,Measles,43,0,False
+2022-06-02,New York,Measles,134,5,False
+2022-08-08,Florida,Measles,129,6,False
+2020-07-17,New York,Flu,125,7,False
+2020-12-01,Texas,Flu,37,1,False
+2020-08-06,Florida,Flu,181,7,False
+2020-03-26,New York,Flu,26,6,True
+2022-09-08,Florida,Flu,85,1,False
+2021-07-22,California,Measles,103,2,False
+2021-12-30,Florida,Flu,16,8,False
+2021-11-14,Texas,Flu,38,8,False
+2020-05-30,Florida,Flu,166,6,False
+2020-10-23,Texas,Flu,18,2,True
+2022-05-21,California,Flu,182,3,False
+2021-03-29,Florida,Flu,149,3,True
+2022-07-09,California,Measles,20,8,False
+2020-01-31,Texas,Measles,56,2,False
+2021-12-04,Florida,Measles,60,9,True
+2021-12-13,California,Flu,28,9,False
+2021-09-05,New York,Flu,60,9,False
+2022-06-15,Florida,Measles,36,1,True
+2020-02-04,Texas,Measles,179,3,True
+2021-03-04,Texas,Measles,190,5,True
+2022-01-24,California,Flu,145,4,True
+2021-12-02,Texas,Measles,102,2,False
+2021-01-03,Florida,Flu,124,0,False
+2020-02-07,New York,Flu,31,9,False
+2022-03-19,New York,Flu,195,0,True
+2022-03-05,New York,Flu,141,4,True
+2022-01-01,New York,Flu,179,7,False
+2020-05-03,Texas,Measles,59,4,False
+2021-10-13,Florida,Flu,117,2,False
+2020-11-30,New York,Flu,133,5,False
+2020-05-21,California,Measles,193,1,True
+2020-10-11,Texas,Flu,49,9,True
+2020-07-10,Florida,Flu,100,6,True
+2022-08-17,Florida,Measles,75,7,False
+2020-02-10,California,Measles,86,6,True
+2020-02-28,Texas,Measles,166,7,False
+2021-10-04,California,Flu,68,7,True
+2020-01-14,Texas,Flu,69,7,True
+2021-04-06,California,Flu,51,8,False
+2020-01-09,New York,Measles,102,4,True
+2021-11-20,New York,Measles,66,1,False
+2020-04-30,California,Flu,70,6,False
+2020-09-27,Florida,Measles,133,7,False
+2022-03-17,California,Measles,198,2,False
+2021-11-15,Texas,Flu,178,8,True
+2020-02-05,California,Flu,149,5,False
+2020-09-08,New York,Measles,190,0,False
+2020-12-10,California,Measles,45,5,True
+2022-03-03,New York,Measles,82,3,False
+2021-03-26,New York,Measles,107,6,False
+2022-06-09,Texas,Flu,166,2,True
+2020-11-24,Texas,Flu,129,2,True
+2022-03-07,Florida,Measles,114,6,False
+2020-12-06,Texas,Flu,48,6,True
+2021-03-08,California,Flu,54,2,False
+2020-04-12,New York,Flu,67,3,False
+2022-04-04,Florida,Flu,173,8,False
+2020-02-08,Florida,Measles,139,7,True
+2022-09-16,California,Measles,128,4,True
+2022-02-06,Florida,Flu,68,0,False
+2022-07-10,Chennai,Malaria,21,5,False
+2021-04-08,Delhi,Flu,13,6,True
+2021-03-11,Chennai,Malaria,125,9,True
+2021-06-09,Visakhapatnam,Flu,58,7,False
+2020-02-10,Visakhapatnam,Flu,20,4,True
+2020-01-30,Mumbai,Flu,113,3,True
+2022-09-07,Delhi,Flu,11,7,False
+2021-10-28,Delhi,Malaria,55,2,False
+2022-03-01,Pune,Flu,24,7,True
+2022-07-22,Surat,Malaria,116,8,True
+2021-12-27,Delhi,Malaria,160,7,True
+2020-06-23,Surat,Flu,63,1,True
+2020-01-09,Ahmedabad,Malaria,17,6,True
+2020-08-06,Chennai,Malaria,169,2,True
+2020-09-16,Delhi,Flu,124,2,True
+2021-10-14,Chennai,Malaria,128,2,False
+2020-09-09,Chennai,Malaria,103,8,False
+2021-08-31,Hyderabad,Malaria,86,5,True
+2021-05-13,Mumbai,Flu,196,4,False
+2021-10-27,Hyderabad,Flu,48,8,False
+2021-04-09,Mumbai,Flu,105,1,False
+2021-01-23,Ahmedabad,Flu,28,5,False
+2021-11-09,Visakhapatnam,Malaria,187,7,False
+2020-05-13,Chennai,Malaria,55,2,True
+2021-12-24,Visakhapatnam,Flu,11,5,True
+2021-03-25,Visakhapatnam,Malaria,13,7,False
+2021-09-05,Mumbai,Flu,117,5,True
+2021-06-17,Ahmedabad,Malaria,35,5,True
+2020-08-18,Visakhapatnam,Malaria,65,0,True
+2022-01-25,Mumbai,Flu,121,2,True
+2020-01-02,Chennai,Flu,66,8,False
+2021-06-24,Chennai,Flu,181,9,True
+2021-12-26,Mumbai,Flu,163,4,False
+2022-07-14,Chennai,Malaria,192,7,True
+2020-02-26,Delhi,Malaria,167,5,True
+2020-04-12,Surat,Malaria,158,8,True
+2021-09-18,Mumbai,Malaria,150,6,True
+2020-08-27,Visakhapatnam,Malaria,107,7,True
+2021-07-17,Surat,Flu,45,8,False
+2020-08-29,Mumbai,Flu,104,3,True
+2022-03-12,Mumbai,Malaria,175,6,False
+2021-04-12,Surat,Flu,55,8,True
+2020-10-22,Surat,Flu,91,7,True
+2020-07-03,Visakhapatnam,Malaria,92,0,False
+2020-09-20,Surat,Flu,39,4,True
+2020-11-06,Visakhapatnam,Malaria,81,5,True
+2020-09-04,Mumbai,Malaria,153,0,False
+2021-12-29,Hyderabad,Flu,85,1,False
+2020-07-28,Pune,Flu,182,3,True
+2021-10-02,Visakhapatnam,Flu,45,7,True
+2022-03-14,Mumbai,Flu,84,9,True
+2021-07-25,Mumbai,Malaria,141,7,False
+2020-05-22,Delhi,Flu,79,2,True
+2020-05-07,Ahmedabad,Malaria,159,3,False
+2021-12-06,Hyderabad,Malaria,139,2,True
+2021-07-16,Visakhapatnam,Malaria,117,1,False
+2022-07-10,Ahmedabad,Malaria,87,5,False
+2020-02-21,Ahmedabad,Flu,118,3,False
+2020-09-07,Mumbai,Malaria,120,3,False
+2022-09-13,Visakhapatnam,Flu,42,8,True
+2020-09-11,Chennai,Malaria,103,3,True
+2020-05-04,Mumbai,Flu,33,6,False
+2021-09-29,Hyderabad,Flu,60,2,False
+2021-01-11,Pune,Malaria,50,4,False
+2022-01-17,Mumbai,Flu,157,4,False
+2020-06-25,Pune,Malaria,53,1,True
+2022-06-16,Mumbai,Malaria,115,6,False
+2020-10-22,Mumbai,Malaria,55,6,True
+2022-09-14,Chennai,Flu,31,5,True
+2020-01-29,Delhi,Flu,137,6,False
+2021-04-19,Hyderabad,Malaria,164,1,False
+2020-04-28,Mumbai,Malaria,31,8,True
+2020-07-31,Visakhapatnam,Flu,104,2,False
+2020-03-03,Hyderabad,Flu,51,4,True
+2020-02-17,Ahmedabad,Malaria,91,9,True
+2021-07-24,Visakhapatnam,Malaria,76,1,True
+2022-06-02,Hyderabad,Malaria,127,9,True
+2022-01-19,Hyderabad,Malaria,191,1,False
+2022-02-15,Chennai,Malaria,50,7,False
+2022-04-28,Mumbai,Malaria,59,1,True
+2021-12-22,Hyderabad,Malaria,94,8,False
+2022-06-27,Hyderabad,Flu,178,4,False
+2022-06-28,Ahmedabad,Malaria,144,1,True
+2022-06-05,Delhi,Flu,17,9,False
+2021-08-08,Delhi,Flu,127,5,False
+2020-11-25,Delhi,Flu,47,9,True
+2021-09-25,Delhi,Flu,184,6,False
+2020-02-03,Visakhapatnam,Malaria,174,4,True
+2022-03-23,Hyderabad,Malaria,32,9,False
+2021-11-17,Visakhapatnam,Flu,83,3,False
+2021-09-24,Ahmedabad,Malaria,123,3,False
+2020-04-18,Ahmedabad,Flu,61,8,False
+2021-01-19,Mumbai,Flu,46,2,False
+2020-10-22,Delhi,Flu,107,3,False
+2022-04-22,Ahmedabad,Malaria,99,3,True
+2020-03-24,Hyderabad,Malaria,75,6,True
+2021-01-27,Visakhapatnam,Flu,11,7,False
+2020-03-04,Hyderabad,Flu,106,2,True
+2022-04-29,Hyderabad,Malaria,124,1,True
+2022-03-31,Ahmedabad,Malaria,111,1,False
+2020-08-16,Delhi,Flu,77,8,False
+2021-11-11,Pune,Malaria,33,3,False
+2020-10-07,Hyderabad,Malaria,52,5,True
+2021-09-08,Surat,Flu,119,8,True
+2021-07-12,Pune,Flu,119,7,True
+2022-02-11,Hyderabad,Flu,32,0,True
+2020-09-05,Pune,Flu,191,9,False
+2021-09-29,Delhi,Flu,94,3,False
+2022-03-30,Delhi,Flu,47,7,True
+2022-06-16,Ahmedabad,Malaria,159,5,True
+2022-07-07,Mumbai,Malaria,13,7,True
+2021-06-17,Visakhapatnam,Flu,107,7,True
+2020-01-04,Delhi,Flu,132,0,True
+2021-06-26,Pune,Malaria,35,1,True
+2022-09-25,Chennai,Malaria,115,9,True
+2020-05-05,Ahmedabad,Malaria,131,5,True
+2022-03-14,Visakhapatnam,Flu,85,1,True
+2020-09-01,Hyderabad,Flu,111,9,True
+2021-04-16,Chennai,Flu,108,9,False
+2021-02-16,Chennai,Malaria,67,9,True
+2020-12-27,Visakhapatnam,Malaria,132,8,True
+2022-07-29,Surat,Flu,33,6,False
+2021-02-22,Delhi,Malaria,15,2,True
+2020-10-30,Visakhapatnam,Malaria,156,7,True
+2021-08-07,Visakhapatnam,Flu,13,6,True
+2021-12-26,Delhi,Flu,96,2,False
+2021-12-23,Delhi,Malaria,182,6,False
+2020-05-27,Visakhapatnam,Malaria,175,3,False
+2020-01-02,Pune,Flu,183,0,False
+2021-02-03,Pune,Flu,31,2,True
+2021-05-14,Delhi,Malaria,70,5,True
+2020-04-30,Delhi,Flu,161,7,True
+2020-06-26,Pune,Flu,184,9,True
+2021-02-03,Mumbai,Malaria,160,2,False
+2020-03-15,Pune,Malaria,13,1,False
+2021-08-26,Hyderabad,Flu,120,4,True
+2022-09-24,Pune,Malaria,21,3,False
+2020-03-19,Ahmedabad,Flu,102,3,False
+2020-10-15,Mumbai,Flu,178,5,True
+2020-04-20,Visakhapatnam,Flu,61,3,False
+2021-10-11,Visakhapatnam,Flu,22,4,True
+2022-07-28,Surat,Flu,20,9,False
+2020-03-03,Ahmedabad,Flu,73,5,True
+2021-11-25,Hyderabad,Malaria,162,7,True
+2021-02-03,Surat,Malaria,137,2,False
+2021-09-16,Surat,Malaria,131,7,False
+2021-09-29,Delhi,Malaria,138,1,False
+2022-09-21,Ahmedabad,Malaria,111,4,True
+2021-07-02,Mumbai,Malaria,56,9,True
+2021-03-02,Visakhapatnam,Flu,115,7,False
+2020-12-01,Ahmedabad,Malaria,165,1,False
+2020-12-24,Surat,Malaria,184,4,True
+2021-05-01,Ahmedabad,Flu,149,2,True
+2021-02-22,Surat,Malaria,24,3,False
+2022-04-20,Visakhapatnam,Flu,139,2,False
+2021-05-27,Mumbai,Malaria,82,5,True
+2022-02-13,Mumbai,Malaria,82,0,True
+2020-01-15,Delhi,Malaria,170,5,True
+2021-01-07,Chennai,Malaria,50,0,False
+2020-07-28,Chennai,Malaria,153,6,False
+2021-01-08,Pune,Malaria,116,1,False
+2020-07-28,Hyderabad,Malaria,89,5,True
+2020-10-16,Visakhapatnam,Flu,144,5,False
+2021-11-07,Hyderabad,Malaria,174,5,True
+2020-02-01,Hyderabad,Malaria,170,4,True
+2022-04-04,Pune,Malaria,33,7,False
+2022-06-21,Chennai,Malaria,125,1,True
+2021-11-28,Chennai,Flu,138,4,False
+2022-02-23,Surat,Flu,69,4,True
+2022-09-14,Mumbai,Malaria,52,0,True
+2020-01-02,Hyderabad,Malaria,86,0,False
+2022-05-26,Mumbai,Flu,71,0,True
+2021-04-04,Surat,Flu,24,0,True
+2021-02-26,Hyderabad,Malaria,99,3,True
+2022-02-06,Delhi,Flu,180,3,True
+2022-08-12,Surat,Malaria,76,3,False
+2022-02-18,Delhi,Malaria,133,9,True
+2021-05-03,Chennai,Flu,114,5,True
+2022-01-09,Visakhapatnam,Flu,171,1,True
+2020-04-24,Hyderabad,Flu,185,0,True
+2021-06-17,Hyderabad,Flu,145,7,False
+2021-07-15,Hyderabad,Malaria,154,8,False
+2020-02-14,Visakhapatnam,Flu,63,5,True
+2020-02-04,Hyderabad,Flu,18,2,True
+2021-07-03,Delhi,Flu,103,2,True
+2021-06-02,Ahmedabad,Malaria,179,6,False
+2022-02-26,Surat,Flu,89,7,False
+2021-04-15,Delhi,Malaria,108,2,True
+2021-03-01,Chennai,Malaria,98,6,True
+2020-09-28,Hyderabad,Flu,137,1,False
+2021-09-18,Delhi,Malaria,133,0,True
+2021-11-01,Mumbai,Malaria,53,1,True
+2022-09-02,Delhi,Malaria,76,6,True
+2021-12-11,Visakhapatnam,Malaria,177,3,False
+2020-11-11,Surat,Malaria,37,4,False
+2021-02-09,Visakhapatnam,Flu,166,7,False
+2020-10-11,Visakhapatnam,Malaria,37,3,False
+2021-05-25,Surat,Flu,93,6,False
+2022-05-01,Delhi,Malaria,123,3,False
+2021-09-08,Ahmedabad,Flu,173,3,False
+2021-06-25,Delhi,Flu,66,3,False
+2021-02-15,Hyderabad,Flu,33,4,True
+2021-02-16,Ahmedabad,Flu,22,5,True
+2022-05-14,Chennai,Flu,152,5,False
+2021-04-20,Mumbai,Malaria,115,0,False
+2022-07-20,Pune,Malaria,85,5,True
+2021-10-26,Chennai,Flu,16,7,False
+2020-01-02,Mumbai,Malaria,37,0,False
+2020-04-24,Pune,Flu,46,6,False
+2021-10-26,Delhi,Flu,114,3,False
+2020-03-30,Hyderabad,Malaria,129,6,True
+2022-08-13,Ahmedabad,Malaria,85,8,False
+2021-12-02,Visakhapatnam,Flu,79,8,False
+2022-04-22,Mumbai,Flu,107,1,False
+2022-06-14,Hyderabad,Malaria,154,2,True
+2021-11-17,Chennai,Flu,57,2,True
+2022-05-06,Surat,Flu,174,8,True
+2020-01-28,Delhi,Malaria,63,4,True
+2020-01-07,Delhi,Malaria,127,6,True
+2021-09-10,Chennai,Malaria,32,4,False
+2020-02-20,Visakhapatnam,Flu,149,3,True
+2021-03-30,Mumbai,Malaria,75,3,False
+2022-08-24,Pune,Malaria,163,9,False
+2022-01-21,Visakhapatnam,Flu,182,7,True
+2021-03-16,Chennai,Flu,153,7,True
+2021-08-20,Delhi,Flu,138,3,True
+2021-02-14,Chennai,Malaria,47,7,True
+2021-12-24,Delhi,Malaria,103,4,False
+2021-09-13,Surat,Flu,191,6,True
+2021-04-03,Ahmedabad,Malaria,91,5,False
+2022-07-04,Ahmedabad,Flu,87,3,False
+2022-08-01,Mumbai,Malaria,47,5,False
+2020-02-06,Visakhapatnam,Malaria,78,4,True
+2020-02-19,Hyderabad,Flu,97,1,False
+2022-08-22,Pune,Malaria,108,9,True
+2021-10-30,Chennai,Malaria,76,0,False
+2021-11-28,Ahmedabad,Malaria,92,4,False
+2022-04-25,Visakhapatnam,Flu,198,1,True
+2020-06-08,Ahmedabad,Malaria,60,9,True
+2021-03-28,Hyderabad,Malaria,193,4,False
+2022-08-20,Surat,Malaria,48,7,True
+2022-08-05,Pune,Malaria,14,0,False
+2021-02-14,Pune,Flu,86,8,False
+2020-08-18,Surat,Malaria,13,4,False
+2021-04-08,Delhi,Flu,140,0,True
+2022-05-29,Mumbai,Flu,110,4,False
+2021-05-02,Visakhapatnam,Malaria,86,6,False
+2022-01-07,Ahmedabad,Flu,166,7,False
+2022-05-09,Ahmedabad,Flu,68,5,False
+2020-01-04,Mumbai,Flu,172,2,False
+2021-02-09,Mumbai,Malaria,11,0,True
+2021-05-11,Mumbai,Flu,159,7,True
+2022-05-25,Mumbai,Malaria,68,1,True
+2020-03-08,Surat,Malaria,145,7,False
+2020-03-06,Delhi,Malaria,75,5,False
+2021-11-14,Pune,Malaria,16,7,True
+2022-08-13,Pune,Flu,35,1,True
+2022-07-22,Mumbai,Flu,64,0,False
+2020-08-26,Delhi,Flu,77,2,False
+2020-04-11,Visakhapatnam,Flu,128,8,False
+2020-08-08,Mumbai,Malaria,59,6,True
+2020-12-06,Mumbai,Flu,77,7,False
+2022-09-05,Chennai,Malaria,131,1,False
+2021-11-06,Chennai,Malaria,42,9,True
+2020-05-05,Pune,Flu,132,9,False
+2022-03-01,Delhi,Flu,178,5,True
+2022-07-23,Pune,Flu,161,7,False
+2021-12-21,Surat,Malaria,197,3,False
+2021-10-19,Surat,Flu,188,5,True
+2021-06-25,Chennai,Flu,192,8,True
+2020-07-07,Pune,Flu,99,5,False
+2021-11-09,Pune,Malaria,62,0,True
+2020-05-22,Chennai,Malaria,29,5,True
+2021-12-10,Delhi,Malaria,22,2,True
+2021-06-28,Ahmedabad,Flu,101,3,False
+2021-07-11,Chennai,Flu,24,4,True
+2022-02-13,Mumbai,Malaria,61,9,True
+2021-09-19,Ahmedabad,Malaria,81,9,False
+2020-04-07,Pune,Flu,154,2,False
+2021-07-01,Delhi,Flu,19,9,False
+2021-10-20,Mumbai,Malaria,131,6,True
+2021-07-24,Delhi,Malaria,114,7,False
+2021-05-07,Visakhapatnam,Flu,47,9,False
+2020-12-04,Visakhapatnam,Flu,67,0,True
+2022-03-14,Chennai,Malaria,148,2,True
+2021-10-19,Mumbai,Flu,82,9,True
+2022-01-13,Pune,Malaria,94,0,False
+2022-02-28,Visakhapatnam,Flu,95,2,True
+2022-03-18,Visakhapatnam,Malaria,117,6,True
+2020-07-20,Visakhapatnam,Flu,147,2,False
+2020-07-09,Mumbai,Malaria,91,1,True
+2021-02-03,Chennai,Malaria,19,2,True
+2020-11-14,Delhi,Flu,152,4,False
+2021-07-03,Pune,Flu,16,9,False
+2021-07-14,Mumbai,Malaria,22,6,True
+2021-09-02,Delhi,Flu,53,1,False
+2020-01-28,Hyderabad,Flu,123,1,True
+2020-10-22,Visakhapatnam,Flu,125,1,True
+2021-10-15,Visakhapatnam,Malaria,59,2,False
+2021-05-04,Delhi,Flu,157,1,False
+2020-11-20,Ahmedabad,Flu,167,7,True
+2020-04-04,Chennai,Flu,103,4,True
+2021-06-13,Surat,Flu,197,0,False
+2020-07-14,Mumbai,Malaria,124,1,False
+2020-08-19,Pune,Malaria,57,9,False
+2021-03-22,Visakhapatnam,Flu,71,1,False
+2021-06-10,Visakhapatnam,Malaria,31,7,False
+2020-11-23,Chennai,Malaria,79,8,True
+2022-03-22,Hyderabad,Flu,74,6,True
+2020-11-28,Hyderabad,Malaria,62,3,True
+2020-03-17,Visakhapatnam,Flu,153,9,True
+2021-06-10,Ahmedabad,Flu,47,3,False
+2022-04-07,Surat,Malaria,97,9,True
+2020-05-03,Mumbai,Flu,147,4,False
+2020-08-23,Surat,Flu,39,6,True
+2021-06-23,Ahmedabad,Malaria,107,2,False
+2020-02-29,Hyderabad,Flu,74,8,True
+2020-11-23,Ahmedabad,Malaria,150,7,True
+2020-08-02,Mumbai,Flu,33,0,True
+2021-07-21,Surat,Malaria,172,6,False
+2021-03-08,Hyderabad,Malaria,184,6,True
+2020-04-04,Mumbai,Malaria,153,5,False
+2021-09-13,Pune,Flu,132,1,False
+2020-02-11,Mumbai,Flu,160,0,True
+2020-05-18,Delhi,Malaria,121,8,True
+2020-04-08,Visakhapatnam,Malaria,136,9,False
+2021-03-26,Chennai,Malaria,199,3,True
+2020-02-24,Hyderabad,Flu,40,2,False
+2022-02-18,Surat,Flu,89,7,True
+2022-01-03,Chennai,Malaria,107,6,False
+2020-05-06,Mumbai,Malaria,185,6,False
+2021-11-16,Mumbai,Flu,94,1,True
+2022-06-13,Ahmedabad,Flu,118,7,False
+2022-07-12,Mumbai,Flu,187,4,True
+2021-08-08,Pune,Malaria,86,8,True
+2021-03-17,Pune,Flu,195,9,False
+2021-07-12,Delhi,Flu,195,1,False
+2021-08-08,Visakhapatnam,Flu,169,1,True
+2020-04-13,Mumbai,Malaria,197,8,False
+2022-01-01,Surat,Flu,46,5,False
+2022-07-29,Ahmedabad,Flu,141,2,True
+2022-05-27,Delhi,Malaria,199,4,False
+2021-05-01,Surat,Flu,155,5,True
+2020-08-17,Visakhapatnam,Flu,29,0,True
+2020-09-24,Delhi,Flu,125,1,True
+2022-03-10,Chennai,Flu,91,9,True
+2020-04-24,Visakhapatnam,Flu,89,0,False
+2022-03-24,Pune,Malaria,17,8,True
+2020-07-13,Surat,Flu,102,9,True
+2021-03-22,Pune,Flu,193,5,False
+2021-10-21,Surat,Malaria,90,5,False
+2022-02-11,Chennai,Malaria,99,8,True
+2020-06-21,Surat,Malaria,102,2,True
+2022-07-02,Ahmedabad,Malaria,10,1,True
+2020-02-27,Ahmedabad,Flu,110,3,False
+2022-09-01,Ahmedabad,Flu,77,9,True
+2020-07-10,Chennai,Flu,126,5,False
+2021-10-30,Hyderabad,Malaria,117,1,True
+2022-02-27,Pune,Malaria,193,8,False
+2022-04-16,Hyderabad,Flu,194,7,True
+2022-04-01,Ahmedabad,Malaria,74,9,False
+2020-04-29,Visakhapatnam,Malaria,180,6,False
+2020-08-06,Pune,Malaria,142,0,False
+2020-01-04,Visakhapatnam,Flu,77,9,True
+2021-10-02,Mumbai,Malaria,147,0,True
+2022-06-26,Ahmedabad,Flu,104,6,True
+2021-04-20,Hyderabad,Flu,151,4,True
+2020-11-03,Chennai,Flu,21,0,False
+2021-07-24,Ahmedabad,Flu,150,1,False
+2021-05-25,Hyderabad,Flu,147,6,True
+2021-12-18,Mumbai,Flu,125,0,True
+2020-10-21,Mumbai,Malaria,71,2,True
+2021-04-19,Chennai,Flu,20,7,False
+2021-06-30,Visakhapatnam,Flu,193,7,False
+2021-09-08,Visakhapatnam,Flu,84,2,False
+2021-06-09,Surat,Malaria,45,8,False
+2020-11-14,Ahmedabad,Flu,136,0,False
+2020-09-25,Mumbai,Malaria,93,9,True
+2021-06-23,Surat,Flu,51,0,True
+2021-12-03,Visakhapatnam,Malaria,110,0,False
+2021-12-01,Visakhapatnam,Flu,22,3,False
+2021-09-11,Delhi,Malaria,170,1,False
+2021-11-07,Hyderabad,Malaria,108,6,True
+2021-02-06,Delhi,Flu,99,6,True
+2022-01-25,Pune,Malaria,73,2,False
+2020-11-06,Mumbai,Malaria,30,4,False
+2020-09-18,Ahmedabad,Malaria,95,2,True
+2022-01-12,Mumbai,Flu,11,8,False
+2022-03-17,Visakhapatnam,Flu,122,7,False
+2022-06-13,Delhi,Malaria,118,6,False
+2021-03-11,Visakhapatnam,Flu,92,8,True
+2021-01-12,Chennai,Flu,75,9,True
+2020-09-28,Chennai,Flu,175,6,False
+2020-11-01,Chennai,Malaria,31,9,True
+2021-02-01,Pune,Malaria,187,3,True
+2021-08-11,Delhi,Flu,17,5,False
+2020-03-05,Mumbai,Flu,145,0,False
+2021-03-29,Visakhapatnam,Malaria,195,3,True
+2022-06-02,Chennai,Flu,38,8,True
+2020-10-20,Mumbai,Flu,26,2,False
+2020-06-08,Hyderabad,Flu,88,4,False
+2020-05-01,Surat,Flu,32,3,True
+2020-05-05,Surat,Malaria,109,6,True
+2020-03-12,Delhi,Malaria,96,0,False
+2020-12-22,Surat,Flu,145,5,False
+2021-08-03,Delhi,Malaria,125,1,True
+2022-09-17,Delhi,Malaria,33,1,False
+2022-04-20,Delhi,Flu,172,9,False
+2022-08-03,Delhi,Malaria,11,9,False
+2020-12-21,Surat,Malaria,197,6,True
+2021-07-08,Hyderabad,Malaria,177,3,True
+2022-02-25,Pune,Flu,91,2,True
+2021-04-05,Delhi,Malaria,60,7,True
+2022-02-03,Delhi,Malaria,49,9,True
+2021-02-02,Delhi,Malaria,74,5,False
+2021-04-12,Hyderabad,Flu,53,0,True
+2020-08-12,Surat,Flu,72,5,False
+2022-05-27,Ahmedabad,Flu,161,2,False
+2020-05-06,Pune,Flu,126,7,True
+2021-01-17,Visakhapatnam,Flu,37,4,True
+2021-06-23,Visakhapatnam,Flu,169,0,True
+2020-01-31,Delhi,Malaria,27,2,False
+2021-07-23,Chennai,Flu,32,4,True
+2021-01-08,Delhi,Flu,137,3,False
+2020-04-30,Ahmedabad,Flu,56,0,False
+2021-10-16,Visakhapatnam,Malaria,108,8,True
+2020-01-25,Chennai,Malaria,100,1,True
+2020-08-10,Surat,Flu,148,1,False
+2020-04-03,Visakhapatnam,Malaria,155,6,True
+2022-04-12,Hyderabad,Flu,53,0,True
+2021-02-01,Surat,Malaria,18,7,True
+2020-06-06,Ahmedabad,Malaria,31,7,True
+2020-05-05,Visakhapatnam,Flu,137,3,False
+2021-05-02,Ahmedabad,Malaria,63,9,False
+2020-11-26,Visakhapatnam,Flu,96,2,False
+2020-11-08,Surat,Flu,120,2,True
+2022-03-16,Visakhapatnam,Flu,92,2,True
+2022-05-29,Pune,Malaria,91,8,True
+2020-04-05,Chennai,Malaria,67,2,False
+2020-07-02,Chennai,Malaria,108,5,False
+2020-04-11,Pune,Flu,25,8,True
+2020-06-21,Pune,Malaria,108,5,True
+2021-01-08,Surat,Malaria,165,9,False
+2020-06-01,Delhi,Flu,61,9,True
+2021-01-19,Visakhapatnam,Malaria,152,6,True
+2020-01-08,Pune,Malaria,93,3,False
+2020-11-01,Chennai,Flu,195,8,True
+2021-06-05,Pune,Flu,130,4,True
+2021-01-02,Visakhapatnam,Flu,159,5,False
+2020-09-10,Delhi,Malaria,15,4,False
+2020-05-21,Pune,Flu,116,8,False
+2021-05-07,Visakhapatnam,Flu,132,8,False
+2021-04-15,Mumbai,Flu,10,7,True
+2022-03-05,Visakhapatnam,Flu,176,7,True
+2021-11-04,Hyderabad,Flu,44,1,False
+2020-07-16,Chennai,Malaria,51,5,True
+2020-12-02,Hyderabad,Flu,124,7,False
+2021-05-21,Surat,Malaria,86,4,True
+2021-09-08,Chennai,Malaria,128,3,False
+2022-03-25,Mumbai,Flu,34,6,False
+2020-12-30,Pune,Malaria,31,8,False
+2020-08-31,Ahmedabad,Flu,39,2,False
+2022-05-15,Surat,Malaria,36,1,True
+2021-12-06,Delhi,Malaria,104,0,False
+2021-03-27,Surat,Malaria,101,8,True
+2020-10-11,Hyderabad,Flu,177,8,False
+2021-11-13,Delhi,Flu,33,3,True
+2022-05-12,Visakhapatnam,Flu,32,8,False
+2020-01-22,Visakhapatnam,Flu,123,7,True
+2020-07-27,Surat,Malaria,161,3,False
+2022-07-29,Ahmedabad,Malaria,65,7,False
+2022-02-06,Chennai,Flu,98,1,False
+2021-06-24,Hyderabad,Malaria,183,6,False
+2020-10-12,Mumbai,Flu,27,3,True
+2021-08-22,Mumbai,Flu,29,0,True
+2022-05-13,Ahmedabad,Malaria,79,7,False
+2022-05-06,Ahmedabad,Flu,33,8,False
+2022-09-26,Hyderabad,Flu,10,0,False
+2020-10-07,Chennai,Malaria,105,4,False
+2022-01-02,Pune,Malaria,138,1,True
+2020-03-22,Surat,Flu,134,4,False
+2022-04-27,Visakhapatnam,Malaria,102,4,True
+2022-04-13,Pune,Malaria,171,2,False
+2021-12-23,Delhi,Malaria,197,4,False
+2022-09-10,Surat,Malaria,23,0,True
+2020-11-08,Visakhapatnam,Malaria,131,2,False
+2021-12-03,Surat,Malaria,164,4,False
+2020-07-08,Ahmedabad,Flu,17,5,True
+2022-08-17,Pune,Flu,137,1,True
+2020-10-04,Visakhapatnam,Malaria,31,9,True
+2021-10-19,Ahmedabad,Flu,21,2,True
+2022-09-10,Chennai,Flu,153,2,False
+2021-02-28,Surat,Malaria,187,6,True
+2020-08-27,Chennai,Flu,12,9,False
+2020-11-07,Delhi,Flu,13,2,True
+2021-12-07,Hyderabad,Flu,120,4,False
+2021-07-21,Surat,Malaria,115,8,False
+2020-03-24,Mumbai,Malaria,129,2,True
+2021-02-07,Hyderabad,Flu,74,0,False
+2021-02-13,Mumbai,Malaria,174,3,False
+2020-08-02,Hyderabad,Flu,80,5,True
+2020-03-22,Ahmedabad,Flu,71,7,True
+2020-11-15,Hyderabad,Malaria,79,0,False
+2021-11-08,Mumbai,Flu,122,9,True
+2020-11-05,Hyderabad,Malaria,103,4,True
+2020-01-14,Pune,Malaria,199,8,True
+2022-04-30,Surat,Malaria,140,5,True
+2020-04-07,Visakhapatnam,Malaria,107,3,True
+2020-03-01,Surat,Malaria,35,8,True
+2020-11-09,Hyderabad,Malaria,178,0,True
+2022-01-31,Hyderabad,Malaria,68,6,True
+2022-01-11,Chennai,Malaria,167,1,False
+2021-02-12,Surat,Malaria,136,8,False
+2022-07-13,Ahmedabad,Flu,121,1,True
+2021-06-21,Surat,Flu,65,3,True
+2020-10-29,Hyderabad,Malaria,114,7,False
+2021-05-27,Hyderabad,Flu,133,6,False
+2021-01-04,Surat,Malaria,82,6,False
+2021-11-10,Mumbai,Malaria,65,5,False
+2021-08-23,Visakhapatnam,Flu,183,4,True
+2022-01-10,Pune,Malaria,165,8,False
+2022-05-16,Hyderabad,Flu,23,9,True
+2021-08-18,Ahmedabad,Malaria,177,7,True
+2021-01-27,Chennai,Malaria,36,9,False
+2020-04-23,Mumbai,Flu,182,7,False
+2020-12-02,Surat,Malaria,146,0,True
+2022-04-07,Ahmedabad,Flu,111,2,False
+2020-11-11,Ahmedabad,Flu,153,1,False
+2021-08-26,Ahmedabad,Flu,47,8,True
+2020-09-20,Ahmedabad,Malaria,11,4,True
+2022-06-23,Hyderabad,Flu,14,2,False
+2022-06-02,Surat,Malaria,104,5,True
+2020-08-11,Visakhapatnam,Flu,144,9,False
+2020-03-15,Hyderabad,Malaria,147,6,False
+2020-05-15,Chennai,Malaria,20,2,True
+2020-06-30,Pune,Malaria,143,8,True
+2020-05-18,Delhi,Malaria,134,8,True
+2021-02-08,Visakhapatnam,Flu,196,0,False
+2021-02-21,Pune,Flu,50,4,False
+2022-03-11,Pune,Flu,144,3,False
+2021-12-19,Delhi,Malaria,104,8,True
+2021-05-03,Visakhapatnam,Malaria,135,2,True
+2021-11-18,Pune,Malaria,68,9,True
+2021-07-24,Surat,Malaria,46,6,True
+2021-08-24,Delhi,Malaria,110,0,False
+2021-10-06,Surat,Malaria,75,5,True
+2021-07-14,Delhi,Malaria,131,8,False
+2020-02-01,Ahmedabad,Malaria,143,4,False
+2020-02-23,Chennai,Flu,70,6,True
+2020-12-20,Ahmedabad,Flu,147,9,True
+2022-03-21,Pune,Flu,192,8,True
+2022-09-14,Pune,Malaria,196,1,True
+2022-08-10,Chennai,Malaria,187,1,True
+2021-10-21,Ahmedabad,Malaria,176,8,False
+2020-11-03,Hyderabad,Malaria,129,4,False
+2022-01-16,Ahmedabad,Malaria,187,8,True
+2021-02-19,Chennai,Malaria,20,7,True
+2020-07-28,Ahmedabad,Malaria,11,1,True
+2020-07-14,Surat,Malaria,124,0,True
+2021-08-02,Ahmedabad,Flu,110,9,True
+2020-02-11,Hyderabad,Flu,129,7,True
+2021-08-13,Surat,Flu,87,7,False
+2020-09-15,Mumbai,Flu,145,7,True
+2021-04-26,Delhi,Flu,126,8,True
+2020-01-03,Hyderabad,Flu,144,5,False
+2022-06-24,Delhi,Malaria,24,1,True
+2022-07-27,Pune,Flu,180,9,False
+2022-04-23,Delhi,Flu,30,0,False
+2021-02-17,Ahmedabad,Flu,95,3,True
+2020-06-12,Visakhapatnam,Flu,26,7,False
+2021-03-01,Surat,Malaria,196,3,True
+2022-07-31,Pune,Malaria,105,6,True
+2022-03-07,Ahmedabad,Malaria,148,7,True
+2020-08-03,Delhi,Flu,127,0,False
+2022-01-10,Visakhapatnam,Malaria,43,6,False
+2020-08-11,Delhi,Flu,118,5,False
+2021-08-18,Surat,Flu,190,3,False
+2020-05-01,Hyderabad,Flu,69,3,False
+2020-10-15,Visakhapatnam,Malaria,133,8,True
+2020-11-01,Pune,Flu,80,0,True
+2020-11-12,Visakhapatnam,Flu,110,4,True
+2021-03-24,Visakhapatnam,Flu,101,6,True
+2021-03-21,Surat,Flu,185,5,True
+2021-01-19,Chennai,Malaria,133,9,True
+2022-01-11,Chennai,Flu,126,4,False
+2021-01-31,Delhi,Flu,52,0,True
+2020-04-14,Pune,Malaria,183,1,False
+2022-09-03,Ahmedabad,Flu,54,3,False
+2022-07-25,Ahmedabad,Malaria,183,9,False
+2021-10-30,Pune,Flu,124,9,True
+2021-03-25,Mumbai,Flu,175,0,False
+2022-04-11,Ahmedabad,Malaria,191,9,False
+2021-02-24,Hyderabad,Flu,183,5,False
+2020-10-05,Delhi,Flu,153,2,True
+2021-05-23,Delhi,Flu,160,9,False
+2021-05-30,Visakhapatnam,Flu,40,9,True
+2021-08-14,Chennai,Malaria,19,5,True
+2021-11-15,Pune,Malaria,58,4,True
+2021-12-12,Visakhapatnam,Flu,146,6,False
+2021-03-22,Hyderabad,Flu,83,2,False
+2020-02-25,Delhi,Malaria,178,1,True
+2020-04-23,Visakhapatnam,Malaria,152,4,True
+2021-10-31,Chennai,Malaria,106,6,True
+2021-05-24,Ahmedabad,Flu,192,0,False
+2020-11-19,Visakhapatnam,Flu,42,7,False
+2022-05-07,Pune,Malaria,97,7,False
+2020-01-27,Delhi,Malaria,14,4,False
+2022-05-30,Delhi,Flu,84,0,False
+2022-02-10,Hyderabad,Flu,146,9,True
+2021-11-18,Hyderabad,Malaria,110,0,False
+2021-01-16,Pune,Malaria,94,1,False
+2022-03-15,Surat,Flu,136,0,True
+2021-03-12,Ahmedabad,Malaria,55,7,False
+2021-12-01,Mumbai,Flu,198,1,True
+2022-03-18,Pune,Malaria,75,3,True
+2021-09-19,Surat,Flu,80,7,False
+2020-05-01,Delhi,Malaria,152,8,True
+2020-10-21,Hyderabad,Malaria,53,9,False
+2022-01-29,Visakhapatnam,Malaria,140,7,True
+2022-01-19,Chennai,Malaria,99,8,True
+2022-08-13,Mumbai,Malaria,33,4,False
+2022-03-23,Pune,Flu,109,5,False
+2020-05-01,Hyderabad,Malaria,178,1,True
+2020-05-21,Mumbai,Flu,49,3,True
+2021-10-02,Delhi,Flu,26,8,False
+2021-07-09,Pune,Malaria,174,6,True
+2022-08-14,Pune,Flu,49,1,False
+2021-10-27,Delhi,Flu,88,1,True
+2021-06-06,Ahmedabad,Flu,14,8,False
+2021-12-06,Visakhapatnam,Malaria,149,0,True
+2021-07-16,Visakhapatnam,Flu,136,7,False
+2022-05-05,Hyderabad,Malaria,154,6,True
+2020-11-03,Hyderabad,Flu,20,1,False
+2022-07-18,Visakhapatnam,Flu,27,8,False
+2022-03-16,Ahmedabad,Flu,111,2,True
+2020-06-25,Visakhapatnam,Malaria,186,3,True
+2020-06-16,Hyderabad,Flu,197,2,False
+2020-03-13,Visakhapatnam,Flu,93,2,False
+2021-04-23,Chennai,Malaria,89,5,True
+2022-03-12,Chennai,Flu,100,6,False
+2020-03-03,Hyderabad,Malaria,16,7,True
+2020-08-15,Delhi,Flu,113,0,False
+2020-06-12,Chennai,Flu,193,4,True
+2020-09-25,Delhi,Malaria,151,8,True
+2020-09-29,Visakhapatnam,Malaria,107,0,True
+2022-01-05,Chennai,Flu,179,3,False
+2020-09-22,Pune,Malaria,191,9,True
+2020-12-06,Ahmedabad,Malaria,79,8,True
+2021-06-22,Delhi,Flu,16,8,False
+2021-11-15,Mumbai,Malaria,127,8,True
+2022-05-16,Chennai,Malaria,55,6,False
+2021-09-26,Surat,Flu,13,8,False
+2021-12-01,Delhi,Malaria,181,3,False
+2021-10-13,Delhi,Flu,119,7,True
+2020-11-10,Delhi,Malaria,103,9,True
+2021-06-25,Chennai,Malaria,25,6,False
+2020-12-15,Surat,Flu,53,2,False
+2022-03-20,Chennai,Flu,97,5,False
+2022-04-06,Ahmedabad,Flu,176,7,True
+2020-11-21,Ahmedabad,Malaria,89,3,False
+2022-05-11,Visakhapatnam,Malaria,159,5,True
+2020-02-09,Pune,Flu,186,0,True
+2021-11-24,Pune,Flu,11,5,False
+2022-02-12,Delhi,Flu,52,1,False
+2021-07-23,Delhi,Flu,146,4,False
+2020-07-25,Visakhapatnam,Malaria,166,5,True
+2022-02-22,Chennai,Malaria,184,8,True
+2021-11-25,Chennai,Malaria,96,9,True
+2021-11-24,Chennai,Malaria,123,6,True
+2020-07-08,Surat,Flu,199,4,False
+2022-02-18,Surat,Malaria,27,4,True
+2020-05-16,Hyderabad,Flu,167,1,False
+2021-03-05,Mumbai,Flu,79,4,False
+2020-03-14,Hyderabad,Flu,176,5,True
+2022-06-25,Hyderabad,Flu,49,3,False
+2021-10-13,Hyderabad,Flu,18,3,False
+2021-01-01,Chennai,Flu,199,2,True
+2021-11-09,Ahmedabad,Flu,72,1,True
+2021-01-18,Pune,Malaria,50,8,False
+2022-08-22,Chennai,Flu,172,4,True
+2021-01-10,Hyderabad,Flu,104,4,False
+2020-09-08,Pune,Flu,54,5,True
+2020-09-23,Hyderabad,Malaria,72,1,False
+2022-08-01,Surat,Flu,108,8,True
+2021-07-04,Visakhapatnam,Malaria,45,2,False
+2021-02-23,Hyderabad,Flu,13,9,True
+2020-08-12,Delhi,Malaria,27,0,True
+2021-09-22,Delhi,Flu,92,0,True
+2022-05-16,Hyderabad,Flu,27,4,False
+2020-01-29,Hyderabad,Malaria,157,9,True
+2021-11-27,Delhi,Malaria,33,9,True
+2021-02-02,Mumbai,Flu,176,0,True
+2022-07-15,Ahmedabad,Malaria,56,7,False
+2022-04-26,Delhi,Flu,157,7,False
+2022-02-03,Chennai,Flu,155,0,False
+2021-11-21,Chennai,Malaria,114,1,True
+2020-07-24,Delhi,Flu,101,6,False
+2021-02-14,Pune,Flu,195,7,False
+2021-05-18,Ahmedabad,Flu,126,0,True
+2022-02-28,Chennai,Flu,97,9,False
+2022-07-12,Surat,Flu,29,9,False
+2020-03-05,Delhi,Flu,99,1,False
+2021-06-25,Ahmedabad,Flu,31,6,True
+2021-03-06,Ahmedabad,Malaria,26,5,True
+2020-11-02,Visakhapatnam,Malaria,173,4,True
+2021-01-18,Delhi,Flu,64,7,True
+2022-05-27,Mumbai,Malaria,11,5,False
+2021-06-24,Delhi,Malaria,59,0,False
+2020-06-07,Chennai,Flu,76,5,False
+2022-03-02,Ahmedabad,Flu,90,5,False
+2021-11-17,Delhi,Malaria,132,3,True
+2022-08-09,Chennai,Malaria,190,0,False
+2020-06-25,Ahmedabad,Flu,180,1,False
+2020-01-16,Hyderabad,Flu,55,3,True
+2021-09-13,Mumbai,Malaria,53,0,False
+2021-02-11,Hyderabad,Malaria,77,5,False
+2020-02-25,Surat,Flu,54,4,True
+2021-07-17,Mumbai,Flu,50,5,True
+2020-10-05,Pune,Malaria,132,4,False
+2020-03-18,Hyderabad,Malaria,140,2,False
+2022-08-09,Ahmedabad,Malaria,79,8,True
+2022-01-01,Surat,Flu,174,8,False
+2022-08-12,Chennai,Flu,100,5,False
+2020-10-15,Chennai,Flu,120,0,False
+2020-02-01,Surat,Flu,133,5,True
+2020-01-24,Mumbai,Flu,180,2,True
+2021-01-19,Pune,Malaria,28,2,False
+2022-07-11,Surat,Flu,10,8,True
+2021-10-19,Delhi,Flu,158,0,False
+2020-12-25,Chennai,Malaria,181,8,True
+2021-06-24,Ahmedabad,Malaria,118,2,True
+2022-01-14,Hyderabad,Flu,196,5,True
+2022-05-05,Visakhapatnam,Flu,82,5,False
+2020-08-05,Hyderabad,Malaria,136,4,False
+2021-10-11,Chennai,Malaria,188,6,True
+2021-06-11,Surat,Malaria,106,8,False
+2022-05-09,Surat,Malaria,102,0,False
+2020-07-27,Chennai,Malaria,49,2,False
+2020-11-06,Delhi,Malaria,31,7,False
+2020-07-19,Ahmedabad,Malaria,73,3,False
+2021-01-21,Surat,Flu,62,3,True
+2022-06-01,Hyderabad,Malaria,40,0,True
+2022-05-17,Ahmedabad,Malaria,139,4,True
+2022-08-12,Chennai,Malaria,15,5,True
+2020-09-09,Mumbai,Malaria,11,3,True
+2021-01-06,Mumbai,Malaria,56,4,False
+2020-09-26,Surat,Flu,93,2,True
+2022-02-14,Chennai,Flu,103,8,False
+2021-07-21,Chennai,Malaria,196,0,False
+2020-07-28,Pune,Malaria,171,3,False
+2021-06-23,Surat,Flu,43,1,False
+2022-07-16,Ahmedabad,Malaria,190,5,False
+2020-03-16,Delhi,Malaria,41,2,False
+2020-06-09,Mumbai,Malaria,20,1,False
+2021-07-13,Mumbai,Malaria,69,7,False
+2021-09-18,Pune,Malaria,159,5,True
+2020-09-03,Pune,Flu,163,1,True
+2022-03-06,Ahmedabad,Flu,66,0,False
+2020-02-14,Pune,Flu,152,5,True
+2022-04-02,Mumbai,Flu,44,9,False
+2021-10-21,Chennai,Malaria,64,7,False
+2021-08-04,Chennai,Malaria,199,6,False
+2020-04-01,Mumbai,Malaria,94,4,False
+2022-05-30,Surat,Flu,113,6,False
+2020-01-11,Delhi,Flu,111,8,True
+2021-03-11,Chennai,Flu,57,0,False
+2021-07-21,Mumbai,Flu,113,1,True
+2022-02-26,Delhi,Malaria,87,3,True
+2021-07-13,Pune,Malaria,55,3,True
+2020-06-27,Surat,Malaria,153,5,False
+2022-07-05,Mumbai,Malaria,41,8,True
+2021-08-31,Visakhapatnam,Malaria,117,3,False
+2021-06-06,Visakhapatnam,Flu,42,5,False
+2021-08-31,Surat,Malaria,183,9,True
+2022-08-24,Chennai,Malaria,90,8,True
+2020-12-18,Chennai,Flu,188,1,True
+2020-12-13,Chennai,Malaria,131,9,True
+2020-11-12,Surat,Malaria,92,5,True
+2021-03-31,Hyderabad,Malaria,128,0,False
+2022-01-25,Visakhapatnam,Flu,149,3,True
+2020-07-14,Visakhapatnam,Flu,137,7,True
+2021-05-20,Pune,Malaria,111,4,False
+2020-03-27,Chennai,Malaria,60,4,True
+2021-12-19,Delhi,Flu,194,7,True
+2020-09-21,Mumbai,Malaria,36,3,True
+2021-10-22,Pune,Malaria,15,7,True
+2021-12-14,Mumbai,Malaria,110,7,False
+2021-01-15,Surat,Flu,142,6,False
+2022-05-15,Ahmedabad,Malaria,43,1,True
+2021-01-09,Pune,Malaria,105,9,False
+2021-09-10,Hyderabad,Malaria,56,1,True
+2021-12-12,Chennai,Malaria,156,7,False
+2021-06-10,Visakhapatnam,Malaria,70,5,False
+2022-08-20,Delhi,Flu,199,5,True
+2020-06-16,Delhi,Flu,122,2,False
+2020-10-10,Mumbai,Malaria,28,2,False
+2021-12-07,Chennai,Malaria,179,2,False
+2021-10-19,Hyderabad,Flu,46,0,True
+2022-04-22,Visakhapatnam,Flu,155,1,False
+2021-12-14,Delhi,Flu,48,8,False
+2020-01-17,Delhi,Flu,185,8,True
+2020-07-12,Mumbai,Flu,101,1,False
+2020-02-15,Chennai,Flu,79,7,True
+2021-01-22,Ahmedabad,Flu,60,1,False
+2020-01-16,Surat,Flu,72,0,True
+2020-12-22,Surat,Flu,76,6,False
+2021-03-12,Pune,Flu,153,3,True
+2022-01-02,Mumbai,Flu,118,6,True
+2021-11-14,Surat,Flu,21,2,False
+2021-09-21,Chennai,Flu,36,3,True
+2021-08-05,Pune,Malaria,105,2,False
+2022-03-11,Ahmedabad,Flu,115,7,False
+2021-08-24,Mumbai,Malaria,50,6,False
+2022-04-29,Hyderabad,Flu,162,1,False
+2020-11-01,Mumbai,Flu,117,3,False
+2020-07-19,Chennai,Malaria,12,0,False
+2021-09-17,Surat,Flu,188,3,False
+2022-09-14,Chennai,Malaria,173,8,False
+2022-02-06,Hyderabad,Malaria,87,9,False
+2020-04-12,Ahmedabad,Malaria,98,1,False
+2022-08-01,Surat,Malaria,130,7,False
+2021-05-29,Chennai,Malaria,138,7,True
+2021-11-08,Mumbai,Malaria,41,5,False
+2022-07-11,Hyderabad,Flu,167,9,False
+2022-06-17,Mumbai,Malaria,136,3,False
+2021-05-02,Pune,Malaria,173,7,True
+2020-04-20,Chennai,Flu,36,7,False
+2020-05-19,Visakhapatnam,Flu,142,2,False
+2022-08-14,Mumbai,Flu,175,2,True
+2020-10-14,Chennai,Flu,10,3,True
+2022-03-30,Delhi,Malaria,129,0,True
+2020-04-20,Ahmedabad,Malaria,135,1,True
+2022-09-10,Hyderabad,Malaria,18,7,True
+2020-04-05,Ahmedabad,Flu,175,1,True
+2022-05-02,Delhi,Flu,168,7,True
+2020-10-19,Mumbai,Flu,168,7,False
+2022-07-31,Delhi,Malaria,58,0,False
+2021-09-24,Delhi,Malaria,38,1,True
+2021-09-16,Ahmedabad,Malaria,170,6,False
+2020-09-29,Delhi,Malaria,34,5,False
+2022-06-08,Mumbai,Flu,75,4,False
+2021-12-14,Ahmedabad,Malaria,174,9,True
+2020-05-20,Delhi,Flu,21,4,False
+2022-04-18,Chennai,Flu,84,7,False
+2021-01-14,Delhi,Flu,94,4,False
+2021-12-04,Mumbai,Flu,68,0,True
+2021-08-13,Mumbai,Malaria,170,2,True
+2021-12-17,Ahmedabad,Flu,27,4,True
+2020-08-12,Pune,Malaria,43,5,True
+2022-06-08,Chennai,Malaria,77,5,False
+2022-08-06,Delhi,Malaria,145,2,False
+2022-04-16,Visakhapatnam,Flu,75,6,True
+2020-04-24,Visakhapatnam,Flu,170,4,True
+2021-02-24,Mumbai,Malaria,175,0,False
+2022-09-21,Visakhapatnam,Flu,144,7,False
+2022-03-13,Mumbai,Flu,41,1,True
+2020-05-18,Mumbai,Flu,114,8,True
+2021-04-03,Mumbai,Flu,100,2,True
+2022-09-24,Hyderabad,Malaria,155,7,False
+2021-04-16,Hyderabad,Flu,149,3,True
+2021-01-18,Pune,Flu,20,8,False
+2022-02-04,Visakhapatnam,Malaria,111,8,False
+2022-03-26,Pune,Malaria,137,0,True
+2022-04-13,Delhi,Flu,123,7,False
+2021-05-20,Delhi,Flu,23,6,True
+2021-03-20,Chennai,Malaria,170,3,False
+2021-01-28,Mumbai,Malaria,122,1,True
+2022-06-12,Chennai,Malaria,149,6,False
+2020-02-20,Surat,Malaria,149,2,False
+2021-05-13,Chennai,Flu,135,5,True
+2020-02-01,Ahmedabad,Malaria,20,6,False
+2020-04-30,Chennai,Malaria,74,7,False
+2021-01-03,Ahmedabad,Malaria,48,9,False
+2022-02-13,Chennai,Flu,92,3,False
+2020-10-01,Delhi,Flu,185,2,True
+2021-08-28,Hyderabad,Malaria,194,1,False
+2022-05-17,Hyderabad,Flu,108,6,True
+2021-06-03,Mumbai,Flu,89,9,True
+2022-07-03,Delhi,Malaria,64,6,True
+2022-07-13,Delhi,Flu,154,7,False
+2022-08-29,Visakhapatnam,Malaria,59,8,False
+2021-06-07,Pune,Flu,103,2,False
+2020-02-28,Hyderabad,Malaria,69,5,True
+2022-06-03,Visakhapatnam,Flu,50,6,False
+2020-11-21,Mumbai,Malaria,10,7,False
+2020-05-09,Ahmedabad,Malaria,139,5,False
+2020-04-01,Mumbai,Flu,112,1,False
+2021-01-30,Visakhapatnam,Flu,67,0,False
+2022-06-18,Hyderabad,Malaria,131,4,True
+2021-02-04,Surat,Malaria,183,9,False
+2020-03-11,Surat,Flu,165,2,False
+2022-05-07,Hyderabad,Flu,47,3,False
+2022-07-15,Ahmedabad,Malaria,11,3,True
+2020-08-23,Mumbai,Flu,162,8,True
+2021-12-29,Delhi,Flu,145,1,False
+2020-11-14,Ahmedabad,Flu,141,6,False
+2021-04-11,Surat,Malaria,60,9,False
+2021-08-09,Chennai,Flu,163,0,False
+2020-12-08,Delhi,Malaria,73,4,True
+2020-08-12,Chennai,Flu,44,8,False
+2021-02-23,Chennai,Flu,42,6,False
+2022-02-26,Delhi,Flu,12,5,True
+2020-09-15,Mumbai,Flu,168,5,False
+2020-02-02,Surat,Flu,112,1,True
+2022-05-25,Ahmedabad,Malaria,87,9,True
+2020-08-28,Surat,Malaria,178,5,False
+2021-11-11,Pune,Flu,138,4,False
+2020-05-15,Ahmedabad,Flu,40,1,False
+2021-10-04,Visakhapatnam,Flu,131,4,False
+2021-02-01,Hyderabad,Malaria,122,6,False
+2022-05-17,Surat,Malaria,189,6,True
+2020-03-29,Surat,Flu,40,0,True
+2021-11-08,Surat,Flu,15,4,True
+2021-05-22,Ahmedabad,Flu,199,3,False
+2022-09-17,Delhi,Flu,61,5,True
+2020-04-25,Hyderabad,Flu,59,5,False
+2020-08-10,Delhi,Malaria,69,8,False
+2021-08-11,Mumbai,Malaria,111,6,True
+2020-06-03,Chennai,Malaria,122,3,False
+2021-10-02,Delhi,Flu,164,5,False
+2020-02-03,Mumbai,Malaria,133,6,False
+2021-04-27,Pune,Flu,122,4,True
+2022-03-17,Surat,Malaria,193,1,False
+2020-10-13,Mumbai,Flu,44,9,True
+2020-07-20,Hyderabad,Flu,179,9,False
+2021-08-08,Pune,Flu,61,7,True
+2020-04-17,Surat,Flu,105,4,False
+2021-06-14,Pune,Malaria,104,7,True
+2021-04-01,Chennai,Flu,152,1,False
+2020-11-26,Surat,Flu,157,5,False
+2020-12-19,Visakhapatnam,Malaria,113,7,False
+2020-02-04,Hyderabad,Malaria,71,8,True
+2021-04-16,Delhi,Flu,60,7,True
+2022-08-26,Hyderabad,Flu,157,3,False
+2022-06-25,Delhi,Malaria,108,6,False
+2020-10-04,Surat,Malaria,79,2,False
+2021-11-04,Mumbai,Flu,175,9,True
+2020-11-21,Visakhapatnam,Flu,126,4,True
+2020-07-26,Delhi,Malaria,16,9,False
+2022-08-31,Pune,Flu,147,7,True
+2021-07-11,Surat,Malaria,89,7,False
+2021-11-18,Ahmedabad,Malaria,18,9,True
+2020-07-25,Surat,Malaria,61,4,True
+2021-12-29,Surat,Malaria,78,5,True
+2021-01-16,Ahmedabad,Malaria,160,9,True
+2021-04-15,Hyderabad,Flu,77,6,False
+2021-09-24,Ahmedabad,Malaria,188,2,False
+2021-05-17,Visakhapatnam,Malaria,121,8,True
+2021-10-07,Delhi,Flu,59,6,False
+2021-05-01,Visakhapatnam,Malaria,96,0,False
+2020-11-17,Chennai,Flu,74,8,False
+2020-02-28,Pune,Flu,56,1,True
+2021-11-15,Ahmedabad,Flu,109,8,True
+2020-01-05,Surat,Malaria,192,8,True
+2020-03-08,Surat,Malaria,198,3,False
+2021-04-15,Visakhapatnam,Malaria,124,1,True
+2022-01-07,Visakhapatnam,Flu,129,9,True
+2020-08-26,Chennai,Malaria,153,7,True
+2021-03-06,Delhi,Flu,93,0,True
+2021-02-22,Surat,Flu,130,3,False
+2021-04-22,Pune,Flu,28,0,True
+2020-04-27,Hyderabad,Malaria,115,4,True
+2022-01-24,Hyderabad,Flu,117,7,False
+2022-03-30,Pune,Malaria,17,7,False
+2020-07-30,Ahmedabad,Malaria,55,0,True
+2020-09-06,Chennai,Flu,109,5,False
+2020-10-22,Delhi,Malaria,59,2,False
+2020-01-30,Mumbai,Malaria,110,4,False
+2022-06-06,Visakhapatnam,Malaria,123,0,True
+2020-11-27,Chennai,Flu,161,8,False
+2021-02-05,Delhi,Malaria,53,2,False
+2022-01-27,Pune,Flu,132,7,False
+2021-10-26,Hyderabad,Malaria,180,9,True
+2021-10-20,Surat,Malaria,75,1,True
+2020-12-08,Chennai,Flu,75,2,False
+2020-04-08,Chennai,Malaria,111,2,False
+2022-02-15,Chennai,Flu,198,8,False
+2022-07-01,Mumbai,Malaria,176,5,False
+2021-04-06,Chennai,Malaria,103,6,False
+2020-06-15,Surat,Flu,15,3,True
+2021-02-11,Hyderabad,Malaria,164,1,False
+2022-03-28,Pune,Malaria,139,1,True
+2022-08-27,Surat,Flu,122,8,True
+2020-08-23,Visakhapatnam,Malaria,159,9,True
+2021-10-05,Ahmedabad,Malaria,162,8,False
+2022-04-15,Delhi,Flu,49,6,False
+2021-09-25,Pune,Malaria,120,9,False
+2021-06-16,Chennai,Malaria,172,7,True
+2020-06-26,Ahmedabad,Malaria,58,3,False
+2021-01-22,Pune,Malaria,160,8,True
+2022-05-14,Chennai,Malaria,169,8,False
+2020-02-18,Visakhapatnam,Malaria,116,5,True
+2020-10-05,Hyderabad,Malaria,151,3,True
+2021-12-02,Mumbai,Flu,175,9,False
+2020-06-04,Ahmedabad,Flu,76,6,True
+2021-06-16,Chennai,Flu,57,9,False
+2021-11-10,Chennai,Malaria,186,3,False
+2021-12-28,Mumbai,Malaria,193,4,True
+2020-09-20,Hyderabad,Malaria,104,1,False
+2022-06-26,Visakhapatnam,Flu,39,1,True

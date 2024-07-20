@@ -1,0 +1,68 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Predict</title>
+    <style>
+        body{
+        background-image:url("{%static 'healthcare1.jpg'%}");
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-size:cover;
+        
+        }
+
+    </style>
+</head>
+<body>
+    <div class="main" style="text-align: center;">
+        <h1 >Please enter the following values : </h1>
+        <form action="result">
+            <div class="row">
+                <div class="col-sm-6 cl-md-6" style="">
+                    <p>Region</p>
+                    <input type="text" name="n1">
+                <!-- </div> -->
+                <!-- <div class="col-sm-4" style="background-color:DarkSeaGreen;"> -->
+                    <p>Disease</p>
+                    <input type="text" name="n2">
+                <!-- </div> -->
+                <!-- <div class="col-sm-4" style="background-color:LightPink;"> -->
+                    <p>Cases</p>
+                    <input type="text" name="n3">
+                <!-- </div> -->
+            <!-- </div> -->
+            <!-- <div class="row"> -->
+                <!-- <div class="col-sm-4" style="background-color:Bisque;"> -->
+                    <p>No of Deaths</p>
+                    <input type="text" name="n4">
+                <!-- </div> -->
+                <!-- <div class="col-sm-4" style="background-color:DarkSeaGreen;"> -->
+                    <!-- <p>Platform</p>
+                    <input type="text" name="n5"> -->
+                <!-- </div> -->
+                <!-- <div class="col-sm-4" style="background-color:LightPink;"> -->
+                    <p>Air Quality</p>
+                    <input type="text" name="n7">
+                    <p>Temperature</p>
+                    <input type="text" name="n8">
+                    <!-- <p>Sentiment</p>
+                    <input type="text" name="n9"> -->
+                    <p>Humidity</p>
+                    <input type="text" name="n10">
+                    <!-- <p>Count</p>
+                    <input type="text" name="n11"> -->
+                </div>
+            </div>
+            <div class="row">
+                <input type="submit" value="done">
+            </div>
+        </form>
+        <div>
+            {{result}}
+        </div>
+    </div>
+
+</body>
+</html>

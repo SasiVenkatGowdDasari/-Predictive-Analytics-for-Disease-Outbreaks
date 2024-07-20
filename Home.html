@@ -1,0 +1,45 @@
+
+{%load static%}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wellcome to home page</title>
+    <style>
+        h2{
+        margin-top:150px;
+        font-size:40px;
+
+        }
+        h1{
+        font-size:60px;
+        }
+        body{
+        background-image:url("{%static 'HOME.jpg'%}");
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-size:cover;
+
+        }
+        input[type=submit]{
+        background-color:#000000;
+        color:white;
+        cursor:pointer;
+        padding 16px 32px;
+        }
+    </style>
+</head>
+<body style="text-align:center;">
+    <h2>WelCome</h2>
+    <h1>
+        Predictive Analytics for Disease Outbreaks
+    </h1>
+    <form action="predict">
+<!--        should be the name of the 'predict/', in urls.py file
+
+-->
+        <input type="submit" value="Predict" style="margin-top:200px; padding:7px; border-radius:5px; border-color: transparent; font-family:Arial Narrow Bold; background-color: ;">
+    </form>
+</body>
+</html>
